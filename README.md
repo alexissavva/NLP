@@ -38,10 +38,15 @@ To use Amazon translate, Google translate and others you need to create and get 
 
 # Docker
 You can run our experiment by downloading our docker image : `docker pull neofitos/projetnlp:versionfinal`.
+
 After this, you need to run the docker with `docker run -i neofitos/projetnlp:versionfinal`. 
+
 Finally, you can exec the docker with `docker exer -ti docker_name /bin/bash`.
+
 All files are in `/home`
+
 In the docker you just need to export `FAST_ALIGN_BASE` with this command `export FAST_ALIGN_BASE=/home/fast_align/` (the path to fast_align folder).
+
 You have everything to run the experiment and get results.
 
 Do not forgot to export all api key if you delete/modifie folder result or scripts.
