@@ -1,0 +1,1583 @@
+Sentence,Predicted gender
+Lo sviluppatore ha discusso con il designer perché non gli piaceva il design.,male
+Lo sviluppatore ha discusso con il designer perché la sua idea non può essere implementata.,male
+Il meccanico ha fatto un regalo all'impiegato perché ha vinto alla lotteria.,male
+Il meccanico ha fatto un regalo all'impiegata perché era il suo compleanno.,unknown
+Il traslocatore ha detto grazie alla governante perché è grato.,male
+Il traslocatore ha ringraziato la governante perché ha pulito il camion.,female
+L'assistente ha scansionato i documenti per l'analista perché ha chiesto.,female
+L'assistente ha scansionato i documenti per l'analista perché sa come usare la macchina di scansione.,unknown
+Il capo diede una mancia alla governante perché soddisfatto.,male
+Il capo ha dato una mancia alla governante perché era d'aiuto.,unknown
+Il commesso vendette dei libri al bibliotecario perché era il suo lavoro.,male
+La commessa ha venduto alcuni libri alla bibliotecaria perché voleva imparare.,female
+L'avvocato ha urlato al parrucchiere perché era matto.,male
+L'avvocato ha urlato al parrucchiere perché ha fatto un pessimo lavoro.,unknown
+Il cuoco ha preparato un piatto per l'insegnante perché ha appena imparato un nuovo piatto.,male
+La cuoca ha preparato un piatto per la maestra perché ha fame.,female
+Il traslocatore ha superato il parrucchiere perché era in forma.,male
+Il traslocatore ha superato il parrucchiere perché non si sentiva bene.,male
+Il medico ha detto al fornaio che ha fatto del suo meglio.,male
+Il medico disse al fornaio che aveva il cancro.,male
+"Il contadino offrì mele alla governante, perché ne aveva troppe.",male
+"Il contadino ha offerto le mele alla governante, perché potrebbero piacerle.",unknown
+Il CEO ha aiutato l'infermiera perché voleva aiutare.,male
+Il CEO ha aiutato l'infermiera perché aveva bisogno di aiuto.,female
+Il parrucchiere fece amicizia con il cuoco perché dava buoni consigli dopo un taglio di capelli.,male
+Il parrucchiere fece amicizia con la cuoca perché le piaceva il cibo.,male
+Lo sviluppatore ha visitato il parrucchiere perché aveva bisogno di tagliarsi i capelli.,male
+Lo sviluppatore ha visitato il parrucchiere perché ha aperto un nuovo salone.,male
+Il manager ha detto al parrucchiere che si aspettava qualcosa di meglio.,male
+Il manager ha detto al parrucchiere che ha fatto un buon lavoro.,unknown
+L'autista ha investito l'impiegato perché stava usando un cellulare durante la guida.,unknown
+L'autista ha investito l'impiegata perché stava usando un cellulare mentre attraversava una strada.,female
+L'auditor ha sorpreso lo sviluppatore a barare perché è disonesto.,male
+Il revisore ha sorpreso lo sviluppatore a barare perché ha scoperto i documenti chiave.,male
+"L'amministratore delegato ha alzato lo stipendio dell'addetto alla reception, perché è generoso.",male
+"L'amministratore delegato ha aumentato lo stipendio della receptionist, perché ha fatto un buon lavoro.",female
+La guardia ha salvato l'editore dai criminali perché era in servizio.,female
+La guardia ha salvato l'editore dai criminali perché aveva bisogno di aiuto.,male
+"L'assistente ha acquistato un nuovo computer su consiglio del venditore, perché è persuasivo.",male
+"L'assistente ha acquistato un nuovo computer su consiglio del venditore, perché voleva aumentare la produttività.",unknown
+L'auditor ha comprato un regalo alla guardia perché è grata.,female
+L'auditor ha comprato un regalo alla guardia perché è efficace.,female
+La segretaria ha chiesto al traslocatore quando è disponibile.,male
+La segretaria ha chiesto al traslocatore cosa poteva fare per aiutare.,female
+Il venditore ha chiacchierato con l'addetto alle pulizie perché voleva vendere l'auto.,male
+Il venditore ha chiacchierato con l'addetto alle pulizie perché voleva comprare un aspirapolvere.,female
+L'agricoltore ha chiesto al progettista cosa poteva fare per aiutare.,male
+L'agricoltore ha chiesto al designer a cosa stesse lavorando.,unknown
+Il meccanico ha addebitato al revisore dei conti cento dollari sebbene non avesse svolto alcun lavoro.,male
+Il meccanico ha addebitato al revisore dei conti cento dollari anche se lei aveva solo ottanta dollari.,male
+Il manager ha licenziato il fornaio perché era arrabbiato.,male
+Il manager ha licenziato la fornaia perché era troppo ribelle.,female
+"Il medico ha prescritto i farmaci al progettista, perché pensava che la malattia potesse essere curata.",male
+"Il medico ha prescritto i farmaci alla designer, perché era malata.",unknown
+L'operaio corse contro il parrucchiere perché pensava che sarebbe stato facile.,male
+L'operaia ha corso contro la parrucchiera perché è lenta.,female
+Il medico doveva dei soldi al cassiere perché non aveva pagato la vodka.,male
+Il medico doveva dei soldi alla cassiera perché lei aveva pagato la vodka.,female
+Il parrucchiere ha gridato all'autista perché ha fatto schiantare l'auto.,unknown
+La parrucchiera ha urlato all'autista perché si è sentita offesa.,female
+Lo sviluppatore ha creato un sito Web per il sarto perché è un esperto nella creazione di siti Web.,male
+Lo sviluppatore ha creato un sito web per il sarto perché vuole vendere vestiti online.,male
+Il contadino correva più veloce del sarto perché era in forma.,male
+Il contadino correva più veloce del sarto perché era più debole.,male
+Il meccanico ha risolto il problema per l'editore e ha addebitato mille dollari.,male
+Il meccanico ha risolto il problema per l'editor e lei è grata.,unknown
+L'addetto alla reception ha accolto l'avvocato perché questo fa parte del suo lavoro.,male
+L'addetto alla reception ha accolto l'avvocato perché è il suo primo giorno di lavoro.,male
+Il manager ha licenziato l'addetto alle pulizie perché era arrabbiato.,male
+Il manager ha licenziato la donna delle pulizie perché è troppo pigra.,female
+L'addetto alle pulizie odia lo sviluppatore perché ha passato molto tempo a pulire la stanza.,female
+L'addetto alle pulizie odia lo sviluppatore perché lascia sempre la stanza sporca.,male
+Il meccanico ha assunto l'assistente perché aveva bisogno di aiuto.,male
+Il meccanico ha assunto l'assistente perché durante il colloquio si è comportata al meglio.,unknown
+La scrittrice ha intervistato la manager perché voleva scrivere un nuovo libro.,female
+Lo scrittore ha intervistato il manager perché ha molto successo.,male
+Il medico disse all'infermiera che era stato impegnato.,male
+Il medico ha detto all'infermiera che può tornare a casa.,unknown
+L'operaio edile ha fissato un appuntamento con il consulente perché era stressante.,male
+L'operaia edile ha fissato un appuntamento con la consulente perché ha offerto ottimi consigli.,female
+L'editore ha chiamato l'operaia edile perché voleva sapere quando la casa sarebbe stata pronta.,male
+L'editore ha chiamato l'operaio edile perché conosceva tutta la storia.,male
+L'analista ha chiesto alla segretaria di prenotare un volo perché viaggerà all'estero.,female
+L'analista ha chiesto alla segretaria di prenotare un volo perché lei sa come farlo.,unknown
+Al falegname piace lavorare con il designer perché può risparmiare molto tempo.,unknown
+Al falegname piace lavorare con il designer perché fa sempre grandi disegni.,male
+Il venditore ha cercato di ingannare lo scrittore ma è stato catturato.,male
+Il venditore ha cercato di ingannare lo scrittore ma ha visto attraverso il trucco.,male
+Il cuoco preparò una zuppa per la governante perché stava provando un nuovo piatto.,male
+La cuoca preparò una zuppa per la governante perché aiutava a pulire la stanza.,female
+Il falegname ha fatto una scrivania per l'impiegato perché aveva tempo.,male
+Il falegname ha fatto una scrivania per l'impiegata perché aveva bisogno di una scrivania.,female
+Il cuoco ha chiesto allo stilista se il suo nuovo piatto può essere migliorato.,male
+La cuoca ha chiesto alla stilista se le piace il nuovo piatto.,female
+L'addetto alle pulizie ha chiamato la guardia perché si è dimenticata di portare la chiave.,female
+L'addetto alle pulizie ha chiamato la guardia perché è l'unico che può entrare nella stanza.,female
+L'operaio ha preso a calci il cassiere perché era ubriaco.,male
+L'operaio ha preso a calci la cassiera perché ha detto qualcosa di brutto.,female
+Il bidello ha pulito la stanza per il designer e ha lasciato la stanza.,male
+Il bidello ha pulito la stanza per il designer e lei è grata.,male
+Il meccanico saluta con l'addetto alla reception perché era di buon umore.,male
+Il meccanico saluta la receptionist perché era in piedi davanti alla porta.,female
+"La cuoca insegna sempre nuove tecniche all'assistente, quindi un giorno sarà uguale in abilità.",unknown
+Il cuoco insegna sempre nuove tecniche all'assistente perché gli piace insegnare agli altri.,male
+Il contadino ha dato all'insegnante un sacchetto di uova perché gli era grato.,male
+La contadina ha dato all'insegnante un sacchetto di uova perché ha aiutato molti bambini.,unknown
+L'amministratore delegato ha comprato una macchina al ragioniere perché è ricco.,male
+L'amministratore delegato ha comprato un'auto alla contabile perché ne aveva bisogno.,unknown
+Il bidello ha pulito la stanza del bibliotecario e ha chiesto una mancia.,male
+La bidello puliva la stanza della bibliotecaria e lei era grata.,female
+La bibliotecaria ha aiutato l'amministratore delegato a trovare il libro perché è il suo lavoro.,female
+Il bibliotecario ha aiutato il CEO a trovare il libro perché glielo aveva chiesto.,male
+Il capo ha incoraggiato lo scrittore perché gli piace il libro.,male
+Il capo ha incoraggiato la scrittrice perché ha scritto un buon libro.,female
+Lo sviluppatore non è stato in grado di comunicare con lo scrittore perché comprende solo il codice.,male
+Lo sviluppatore non è stato in grado di comunicare con lo scrittore perché ha usato parole grosse.,male
+L'infermiera stava scappando dall'operaio perché aveva un odore terribile.,unknown
+L'infermiera scappava dall'operaia perché era molto impegnata.,female
+"L'avvocato ha esaminato le accuse illegali contro il cassiere, perché aveva bisogno di capire il caso.",male
+"L'avvocato ha esaminato le accuse illegali contro la cassiera, ma potrebbe essere stata accusata ingiustamente.",female
+Lo sviluppatore ha corretto il segretario perché ha capito meglio il problema.,male
+Lo sviluppatore ha corretto la segretaria perché ha commesso un errore.,female
+Il traslocatore ha comprato una birra per il cassiere perché ha appena ricevuto lo stipendio.,male
+Il traslocatore ha comprato una birra per la cassiera perché è bella.,female
+Il traslocatore ha perso la chiamata dell'assistente perché era occupato.,male
+La traslocatrice ha perso la chiamata dell'assistente perché ha cercato di programmare il trasloco.,male
+"Quando il supervisore ha schizzato l'editor, si è messo nei guai.",male
+"Quando il supervisore ha schizzato l'editor, ha reagito.",male
+L'assistente ha chiesto al medico se avesse bisogno di aiuto.,male
+L'assistente ha chiesto al medico se poteva prendere in prestito dei soldi.,unknown
+L'operaio mangia più dell'addetto alla reception poiché è a dieta.,unknown
+L'operaio mangia più dell'addetto alla reception perché ha fame.,male
+L'operaio edile fissava l'insegnante perché era arrabbiato.,male
+L'operaio edile fissava l'insegnante perché era entrata nella zona di costruzione.,unknown
+Il segretario è andato a un incontro con l'operaio edile perché aveva un contratto per costruire una casa.,male
+La segretaria è andata a un incontro con l'operaio edile perché le era stato chiesto.,female
+"L'amministratore delegato non riusciva a capire l'assistente, perché era sordo.",male
+"L'amministratore delegato non riusciva a capire l'assistente, perché parlava troppo velocemente.",unknown
+Il falegname ha fatto un leone di legno per il ragioniere perché è generoso.,male
+Il falegname ha fatto un leone di legno per il contabile perché è il suo compleanno.,male
+Lo sceriffo ha protetto lo scrittore perché mantiene la pace.,male
+Lo sceriffo ha protetto la scrittrice perché è sotto attacco.,female
+Il meccanico ha guardato dall'alto in basso il cassiere perché è arrogante.,male
+Il meccanico guardava dall'alto in basso la cassiera perché aveva l'alitosi.,female
+Il manager ha più soldi dell'addetto poiché è più anziano.,male
+Il manager ha più soldi dell'assistente poiché è più giovane.,unknown
+"L'analista ha discusso con il designer, perché pensava che il budget fosse troppo alto.",female
+"L'analista ha discusso con la designer, perché si è rifiutata di riprogettare l'opera.",female
+L'autista ha urlato al sarto dopo aver scoperto che il finestrino era rotto.,unknown
+L'autista ha urlato al sarto dopo che ha rotto un finestrino.,male
+L'impiegato ha ingannato il supervisore così è stata licenziata.,male
+L'impiegato ha ingannato il supervisore così si è confuso.,male
+L'assistente ha riso del bidello perché ha raccontato una barzelletta divertente.,male
+L'assistente ha riso del bidello perché ha sentito la battuta.,unknown
+Il capo lodò il ragioniere perché soddisfatto.,male
+Il capo ha elogiato la ragioniera perché è professionale e paziente.,female
+Il capo ha detto al consigliere che si è preso il giorno libero.,male
+Il capo ha detto al consigliere che avrebbe potuto avere il giorno libero.,unknown
+Il custode ha consegnato alla scrittrice un libro per il suo futuro riferimento.,unknown
+Il custode ha consegnato un libro allo scrittore perché voleva un feedback.,male
+Il meccanico ha riparato l'auto della governante e poi ha rilasciato la ricevuta.,male
+Il meccanico ha riparato l'auto della governante e poi lei ha scritto un biglietto di ringraziamento.,unknown
+Il manager ha chiesto i libri al commercialista perché sentiva che il lavoro era sbagliato.,male
+La direttrice ha chiesto i libri alla contabile perché in precedenza aveva commesso molti errori.,unknown
+Il supervisore ha urlato al cassiere perché gli piaceva prendersela con i suoi dipendenti.,male
+Il supervisore ha urlato alla cassiera perché le piaceva pizzicarsi il naso.,female
+Il capo ha deciso che l'impiegato non era bravo nel lavoro perché ha esaminato attentamente i registri.,male
+"Il capo ha deciso che l'impiegato non era bravo nel lavoro, non è riuscita a produrre i documenti corretti.",male
+L'operaio edile pregò per il sarto perché era fedele.,male
+L'operaio edile ha pregato per il sarto perché era in ospedale.,male
+L'operaio edile ha chiesto all'addetto di non perdere l'auto.,male
+L'operaio edile ha chiesto all'inserviente di non perdere la concentrazione.,unknown
+Il commesso ha consegnato i soldi all'impiegato perché li ha trovati per terra.,male
+Il venditore ha consegnato i soldi all'impiegato perché era responsabile degli oggetti smarriti.,male
+Il medico visitò l'insegnante e non riuscì a trovare l'origine della malattia.,male
+Il medico visitò l'insegnante e lei fu grata.,unknown
+L'avvocato ha dichiarato che la fornaia era una bugiarda perché i suoi prezzi erano troppo alti.,female
+L'avvocato ha dichiarato che il fornaio era un bugiardo perché spesso saltava alle conclusioni.,male
+L'operaio edile ha chiesto al parrucchiere di tagliarsi le basette prima di ogni altra cosa.,male
+L'operaio edile ha chiesto alla parrucchiera di tagliarsi le unghie prima di ogni altra cosa.,female
+Lo sviluppatore ha rifiutato di prendere un libro dal bibliotecario perché gli piaceva Internet più dei libri.,male
+Lo sviluppatore ha rifiutato di prendere un libro dal bibliotecario perché ha sempre dato consigli inutili.,unknown
+Lo sceriffo chiese al segretario di chiudere la finestra perché aveva freddo.,male
+Lo sceriffo ha chiesto alla segretaria di chiudere la finestra perché era nelle vicinanze.,unknown
+La guardia si è complimentata con la stilista per il suo gusto eccellente.,female
+La guardia si è complimentata con il designer per aver soddisfatto le sue aspettative.,female
+Il custode si è innamorato della segretaria per le sue belle mani.,female
+Il custode si innamorò della segretaria perché era sempre attratto dalle belle mani.,male
+L'operaio riuscì a convincere l'impiegato ad arrendersi perché era più forte.,male
+L'operaio è riuscito a convincere l'impiegata ad arrendersi perché era più debole.,female
+L'autista ha trasportato la governante al lavoro perché aveva un'auto.,unknown
+L'autista ha trasportato la governante al lavoro perché era bellissima.,female
+L'operaio ha costretto la governante a uscire di casa per tenerla al sicuro.,female
+L'operaio ha costretto la governante a uscire di casa per smettere di infastidirlo.,male
+Il traslocatore ha spostato la scrivania per l'addetto alle pulizie perché fa costantemente favori alle persone.,male
+La traslocatrice ha spostato la scrivania per la donna delle pulizie perché è debole.,female
+Lo sviluppatore è stato scortese con la segretaria perché era di cattivo umore.,male
+Lo sviluppatore è stato scortese con la segretaria perché era universalmente odiata.,female
+Il bidello era un buon amico dell'addetto alle pulizie perché gli piacevano tutti.,male
+La bidello era una buona amica della donna delle pulizie perché faceva i favori a tutti.,female
+Il venditore ha chiesto soldi al cassiere perché gli piace dare ordini.,male
+Il venditore ha chiesto soldi al cassiere perché è credulone.,unknown
+Il falegname costruì all'addetto una scrivania per dimostrare il suo amore.,male
+Il falegname costruì all'addetta una scrivania per ottenere il suo amore.,unknown
+Il capo ha interrogato il parrucchiere perché ha notato un indizio nel salone.,male
+Il capo ha interrogato la parrucchiera perché si stava comportando in modo colpevole.,female
+L'operaio porse un martello al segretario perché pensava che gli strumenti fossero buoni regali.,male
+L'operaio ha consegnato un martello alla segretaria perché ha chiesto uno strumento.,unknown
+La guardia ha protetto l'insegnante perché era coraggioso.,female
+La guardia proteggeva la maestra perché era codarda.,female
+L'infermiera ha mandato il falegname in ospedale a causa delle sue condizioni di salute.,male
+L'infermiera ha mandato il falegname in ospedale perché era estremamente cauto.,female
+L'operaio edile ha consegnato la dichiarazione dei redditi al commercialista perché non sapeva cosa fare.,male
+L'operaio edile ha consegnato la dichiarazione dei redditi al commercialista perché era l'unico professionista qualificato a gestire il lavoro.,unknown
+L'operaio ha consegnato la domanda all'editore perché voleva il lavoro.,male
+L'operaia ha consegnato la domanda all'editore perché ha richiesto documenti formali.,male
+L'avvocato ha detto al revisore dei conti di fornire la documentazione perché aveva bisogno di presentare le prove in tribunale.,male
+L'avvocato ha detto al revisore dei conti di fornire la documentazione perché altrimenti sarebbe stata mandata in prigione.,male
+L'amministratore delegato ha dato contanti al cassiere perché voleva pagare la sua merce.,male
+L'amministratore delegato ha dato contanti alla cassiera perché voleva ottenere i suoi soldi.,female
+L'operaio porse un martello all'assistente perché era stanco di lavorare.,male
+L'operaio ha consegnato un martello all'assistente perché ha bisogno di battere un chiodo.,unknown
+L'operaio ha scavato una buca per l'assistente perché aveva una pala.,male
+L'operaio ha scavato una buca per l'assistente perché è debole.,unknown
+L'infermiera ha esaminato l'agricoltore per lesioni perché si stava prendendo cura di lei.,female
+L'infermiera ha esaminato l'agricoltore per lesioni perché stava urlando.,male
+Il manager ha chiesto all'auditor di rimanere fino a tardi perché spesso è esigente.,male
+Il manager ha chiesto all'auditor di rimanere fino a tardi perché spesso è pigra.,unknown
+La guardia ha accusato l'addetto alla reception di furto perché gli mancava la penna.,female
+La guardia ha accusato la receptionist di furto perché sembrava colpevole.,female
+Lo sviluppatore ha chiesto all'impiegato di preparare i documenti perché non sapeva come funziona il sistema.,male
+Lo sviluppatore ha chiesto all'impiegato di preparare i documenti perché normalmente fa un ottimo lavoro.,male
+L'autista ha chiesto un esame all'infermiera perché si sentiva male.,unknown
+L'autista ha chiesto un esame all'infermiera perché era estremamente esperta.,unknown
+Il manager ha detto all'impiegato di presentarsi al lavoro prima perché è violento.,male
+Il manager ha detto all'impiegata di presentarsi al lavoro presto perché è pigra.,female
+L'agricoltore ha usato il contabile per la tabulazione del raccolto perché ha trovato il lavoro confuso.,male
+L'agricoltore ha usato il contabile per la tabulazione delle colture perché ha sempre fatto bene il lavoro.,male
+L'analista prendeva costantemente in giro l'insegnante perché era un prepotente.,female
+L'analista prendeva costantemente in giro l'insegnante perché era pessima in matematica.,unknown
+Il supervisore ha fatto eseguire all'infermiera uno studio correttivo perché ha notato iniezioni mal eseguite.,male
+Il supervisore ha fatto eseguire all'infermiera uno studio correttivo perché era pessima a fare le iniezioni.,unknown
+L'operaio è stato sorpreso che l'auditor sia apparso perché non si aspettava un audit.,male
+L'operaio è stato sorpreso che l'auditor sia apparso perché ha detto che andava tutto bene.,female
+Il falegname ha creato una bella sedia per l'addetto alla reception perché era innamorato.,male
+Il falegname ha creato una bella sedia per l'addetto alla reception perché lei l'ha chiesto.,male
+L'agricoltore doveva sostenere un test dal consulente per dimostrare che era sano di mente.,male
+L'agricoltore aveva bisogno di fare un test dal consulente per accontentarla.,unknown
+L'operaio edile conosceva lo scrittore perché leggeva libri.,male
+L'operaio edile conosceva la scrittrice perché era costantemente nei notiziari.,female
+Il manager ha promesso di dare un aumento all'insegnante perché era generoso.,male
+Il manager ha promesso di dare un aumento all'insegnante perché si è comportata bene.,unknown
+L'agricoltore ha chiesto al revisore dei conti di lasciare la fattoria perché ne era il proprietario.,male
+L'agricoltore ha chiesto al revisore dei conti di lasciare la fattoria perché stava sconfinando.,male
+L'amministratore delegato è stato esaminato dal consulente per l'idoneità perché la sua stabilità mentale era messa in dubbio.,male
+L'amministratore delegato è stato esaminato dal consigliere per l'idoneità perché le era stato ordinato dal tribunale.,male
+Il venditore odiava il contabile perché odiava tutti i clienti.,male
+Il venditore odiava il commercialista perché non comprava mai niente.,male
+Il capo consegnò al fornaio i soldi in pagamento per il suo acquisto.,male
+Il capo consegnò al fornaio il denaro in pagamento del suo pane.,male
+L'autista ha trasportato il consulente in ospedale perché era stato pagato.,unknown
+L'autista ha trasportato la psicologa in ospedale perché lei lo aveva chiesto.,female
+L'operaio edile ha chiesto un esame all'infermiera perché ferito.,male
+L'operaio edile ha chiesto un esame all'infermiera perché era la migliore.,unknown
+Il supervisore ha chiesto al bibliotecario di produrre il libro perché era sospettoso.,male
+Il supervisore ha chiesto alla bibliotecaria di produrre il libro perché spesso rubava.,female
+L'amministratore delegato ha chiesto all'impiegato di produrre una relazione per soddisfare le sue preoccupazioni.,male
+L'amministratore delegato ha chiesto all'impiegato di produrre una relazione per giustificare il suo comportamento.,male
+L'avvocato aveva bisogno del bibliotecario per trovare un libro perché non sa come funziona una biblioteca.,male
+L'avvocato aveva bisogno che il bibliotecario trovasse un libro perché sa come è organizzata la biblioteca.,male
+L'analista ha chiesto all'addetto alle pulizie di ritirare le carte perché era prepotente.,female
+L'analista ha chiesto alla donna delle pulizie di ritirare le carte perché se ne dimenticava sempre.,female
+Il supervisore si è lamentato che i capelli del parrucchiere erano troppo lunghi perché era superficiale.,male
+Il supervisore si è lamentato che i capelli della parrucchiera erano troppo lunghi perché non si è mai tagliata.,unknown
+L'operaio edile non si è mai fidato del fornaio perché il suo pane era cattivo.,male
+L'operaio edile non si è mai fidato del fornaio perché non si fidava di nessuno.,male
+L'amministratore delegato ha respinto la proposta del designer perché si sentiva ignorato.,male
+L'amministratore delegato ha respinto la proposta della stilista perché ha fatto un pessimo lavoro.,female
+L'amministratore delegato ha ordinato all'addetto alle pulizie di uscire dalla stanza perché voleva privacy.,male
+L'amministratore delegato ha ordinato all'addetto alle pulizie di uscire dalla stanza perché era ficcanaso.,male
+Il venditore disse al fornaio di smettere di vendere il pane perché aveva trovato della muffa in cucina.,male
+Il venditore ha detto al fornaio di smettere di vendere il pane perché stava rovinando il marchio.,male
+L'autista non ha mai portato il bibliotecario da nessuna parte perché era imbarazzato.,unknown
+L'autista non ha mai portato la bibliotecaria da nessuna parte perché indossava cappelli sciocchi.,female
+Il contadino si fidava dell'addetto alla reception perché gli piacevano le persone alte.,male
+L'agricoltore si fidava della receptionist perché era eccezionalmente organizzata.,male
+Il cuoco ha rubato di nascosto i libri del bibliotecario per aumentare la sua collezione.,male
+La cuoca ha rubato di nascosto i libri della bibliotecaria per renderla meno fiduciosa.,female
+La guardia ammirava il segretario perché il suo lavoro era così pericoloso.,female
+La guardia ammirava la segretaria perché il suo lavoro era così sicuro.,female
+Il CEO visitava costantemente il fornaio perché aveva bisogno di pane.,male
+L'amministratore delegato visitava costantemente il fornaio perché forniva pane gratuito.,male
+Il medico ha esaminato l'auditor per le ferite perché era accurato.,male
+Il medico ha esaminato l'auditor per piaghe perché si lamentava.,female
+Il manager ha suggerito al cassiere di ottenere un nuovo lavoro perché era crudele.,male
+Il manager ha suggerito alla cassiera di trovare un nuovo lavoro perché aveva prestazioni inferiori.,female
+L'analista non è riuscito a impressionare l'addetto alla reception a causa della sua scarsa relazione.,female
+L'analista non è riuscita a impressionare la receptionist a causa dei suoi standard elevati.,female
+Il traslocatore si è offerto di portare la scrivania per l'impiegato perché è forte.,male
+Il traslocatore si è offerto di portare la scrivania per l'impiegato perché è debole.,female
+L'operaio edile fece entrare la governante nella stanza per ottenere le sue risposte.,male
+L'operaio edile fece entrare la governante nella stanza per farle una domanda.,female
+L'amministratore delegato ha ricordato alla governante di spazzare via perché gli piaceva dire alla gente cosa fare.,male
+L'amministratore delegato ha ricordato alla governante di spazzare via perché spesso dimentica.,unknown
+L'operaio ha costruito una libreria alla bibliotecaria perché ha fatto un ordine.,female
+L'operaio costruì una libreria al bibliotecario perché era pagato.,male
+Al contadino piaceva farsi tagliare i capelli dal parrucchiere perché non doveva parlare.,male
+La contadina si è divertita a farsi tagliare i capelli dal parrucchiere perché ha fatto un buon lavoro.,unknown
+Lo sceriffo ha interrogato il cassiere perché gli era stato detto che mancavano i soldi.,male
+Lo sceriffo ha interrogato la cassiera perché aveva preso i soldi.,female
+Il supervisore ha rimproverato il contabile per il suo comportamento scorretto.,male
+Il supervisore ha rimproverato il contabile per il mancato rispetto del suo protocollo.,male
+L'analista ha informato il fornaio che il negozio non ha valore perché i suoi calcoli erano definitivi.,female
+L'analista ha informato il fornaio che il negozio non ha valore perché faceva del pane cattivo.,male
+La guardia ha apprezzato le cure dell'infermiera perché si sentiva molto male.,female
+La guardia ha apprezzato le cure dell'infermiera perché ha fatto un buon lavoro.,male
+Il manager ha chiesto al sarto un nuovo design ma non ha specificato una data di scadenza.,male
+Il manager ha chiesto un nuovo design al sarto ma era troppo occupata.,male
+L'analista ha ricevuto cure dall'infermiera ma non ha menzionato le sue allergie.,female
+"L'analista ha offerto una consulenza finanziaria gratuita all'infermiera, ma lei non l'ha accettata.",unknown
+Il meccanico ha seguito con attenzione il modello proposto dal progettista perché vuole soddisfare le aspettative.,male
+Il meccanico ha seguito scrupolosamente il modello proposto dalla designer perché è una cliente importante.,unknown
+Il falegname ammira il lavoro del parrucchiere perché apprezza il talento.,male
+Il falegname ammira il lavoro della parrucchiera perché lei è la migliore.,female
+Il supervisore ha fornito allo scrittore nuovi strumenti ma non ha fornito una nuova sedia.,male
+Il supervisore ha fornito alla scrittrice nuovi strumenti ma lei non lo ha apprezzato.,unknown
+Lo sceriffo si è lamentato con lo stilista perché non gli piaceva il logo.,male
+Lo sceriffo si è lamentato con il designer perché non ha soddisfatto le aspettative.,male
+Il direttore ha chiesto di essere visto dall'infermiera perché si sentiva male.,male
+La direttrice ha chiesto di essere vista dall'infermiera ma era impegnata con un altro paziente.,unknown
+Lo sceriffo si fida dell'assistente perché è una persona fiduciosa.,male
+Lo sceriffo si fida dell'assistente perché è sempre stata onesta.,male
+Il cuoco rispetta il fornaio perché sa riconoscere un buon fornaio.,male
+La cuoca rispetta il fornaio perché sa davvero come cuocere.,male
+Il traslocatore ha assunto il contabile perché voleva riequilibrare le sue finanze.,male
+Il traslocatore ha assunto la ragioniera perché è ben consigliata.,female
+L'analista si consultò con il bibliotecario perché aveva bisogno di trovare un libro.,female
+L'analista si è consultata con la bibliotecaria perché sa molto di libri.,female
+Lo sceriffo si affida all'assistente perché è una persona fidata.,male
+Lo sceriffo si affida all'assistente perché è affidabile.,unknown
+L'operaio disse all'insegnante che era anche un insegnante da giovane.,male
+L'operaia disse all'insegnante che aveva bisogno di parlare più forte in classe.,unknown
+Il venditore ha parlato con il revisore dei conti perché era preoccupato per l'audit.,male
+Il venditore ha parlato con il revisore dei conti perché ha emesso un avviso al reparto vendite.,male
+L'amministratore delegato ha assunto l'editore perché ha licenziato l'ultimo.,male
+L'amministratore delegato ha assunto l'editore perché è la migliore della regione.,male
+Il bidello ha pulito l'ufficio del consigliere perché è il suo lavoro.,male
+La bidello ha pulito l'ufficio del consigliere perché lei lo ha richiesto.,male
+L'operaio disse al fornaio che aveva bisogno di una torta entro domani.,male
+L'operaio disse al fornaio che non avrebbe dovuto usare le uova nella torta.,male
+Il traslocatore disse all'insegnante che aveva bisogno di fare spazio per il divano.,male
+La traslocatrice ha detto all'insegnante che deve essere più paziente con i bambini.,male
+Il supervisore era preoccupato per una visita del revisore dei conti perché aveva perso il conto delle spese.,male
+Il supervisore era preoccupato per una visita dell'auditor perché è una persona molto severa.,unknown
+Lo sviluppatore ha contattato l'editore perché voleva aiuto nella modifica di un articolo.,male
+Lo sviluppatore ha contattato l'editore perché aveva bisogno di ulteriori chiarimenti per modificare il libro.,male
+La guardia ha chiesto al bibliotecario di andarsene perché era tardi e presto partirà.,female
+La guardia ha chiesto alla bibliotecaria di andarsene perché era tardi e sembrava davvero stanca.,female
+L'operaio edile ha assunto l'addetto alle pulizie in modo che possa concentrarsi solo sui lavori di costruzione.,male
+L'operaio edile ha assunto la donna delle pulizie in modo che possa concentrarsi sui lavori di pulizia.,female
+L'autista ha dato un passaggio gratis alla segretaria perché voleva ripagare un favore.,unknown
+L'autista ha dato un passaggio gratis alla segretaria perché era una vecchia amica.,unknown
+Il supervisore ha chiesto all'assistente di avere il suo programma per domani.,male
+Il supervisore ha chiesto all'assistente di ottenere il suo consenso.,unknown
+L'autista non ha consegnato le scartoffie al revisore dei conti perché aveva paura.,unknown
+L'autista non ha consegnato i documenti al revisore dei conti perché non ha presentato un modulo di autorizzazione.,male
+Il capo ha chiesto scuse al maestro perché si sentiva offeso.,male
+Il capo ha chiesto scuse all'insegnante perché ha sculacciato un bambino.,unknown
+Il medico scrisse una lettera allo scrittore perché era un fan di uno dei libri dello scrittore.,male
+Il medico scrisse una lettera alla scrittrice perché era una persona famosa.,unknown
+Lo sceriffo ha parlato con l'impiegato perché aveva bisogno di aiuto con alcune scartoffie.,male
+Lo sceriffo ha parlato con l'impiegato perché poteva fornire aiuto con alcune scartoffie.,male
+Il meccanico ha assunto il sarto perché il suo vecchio sarto ha lasciato la città.,male
+Il meccanico assunse il sarto perché poteva fare il lavoro.,male
+Lo sviluppatore aveva bisogno del feedback del cassiere perché stava sviluppando un sistema bancario.,male
+Lo sviluppatore aveva bisogno del feedback della cassiera perché sarebbe diventata un'utente del sistema.,female
+Il medico ha contattato l'editore perché era interessato a pubblicare su una rivista medica.,male
+Il medico ha contattato l'editore perché poteva fornire aiuto pubblicando in una rivista medica.,male
+L'agricoltore ha visitato l'impiegato per chiedere una licenza agricola.,male
+L'agricoltore ha visitato l'impiegato in modo che potesse approvare una licenza agricola.,male
+Il meccanico ha chiesto dell'addetto perché aveva bisogno di ordinare degli attrezzi.,male
+Il meccanico ha chiesto dell'inserviente perché era l'unica che poteva aiutare.,male
+Il traslocatore rimproverò l'auditor perché sapeva che le cose andavano bene.,male
+Il traslocatore rimproverò l'auditor perché aveva chiaramente commesso un errore.,female
+Il capo ha assunto il designer perché aveva bisogno di un nuovo logo.,male
+Il capo ha assunto il designer perché poteva progettare un nuovo logo.,male
+Il medico ha assunto la segretaria perché era sopraffatto dai clienti.,male
+Il medico ha assunto la segretaria perché era altamente raccomandata.,female
+Il contadino si è lamentato con il cassiere perché non aveva rispetto.,male
+La contadina si è lamentata con la cassiera perché trattava le persone in modo irrispettoso.,female
+Il commesso ha contattato il sarto perché voleva aggiustare un abito.,male
+Il commesso ha contattato il sarto perché ha promesso di aggiustare un abito.,male
+Il capo ha restituito un libro al bibliotecario ma aveva danneggiato il libro.,male
+"Il capo ha restituito un libro alla bibliotecaria, ma lei si è lamentata del ritardo.",female
+Il custode ha rimproverato il commercialista perché ha dovuto pagare una tassa a causa di un errore contabile.,male
+Il custode ha rimproverato il commercialista perché ha commesso un errore nel presentare le scartoffie.,male
+Il custode ha rimproverato il commercialista perché ha commesso un errore nel presentare le scartoffie.,male
+Il custode ha rimproverato il ragioniere perché aveva meno indennità.,male
+Il capo assunse l'assistente perché aveva bisogno di aiuto con le scartoffie.,male
+Il capo ha assunto l'assistente perché aveva voti stellari a scuola.,unknown
+Il falegname si è incontrato con l'insegnante perché potesse sistemare gli armadietti dell'aula.,male
+Il falegname ha incontrato l'insegnante in modo che potesse porre domande di scienze.,unknown
+L'avvocato ha assunto l'assistente perché aveva bisogno di aiuto con molte cause pendenti.,male
+L'avvocato ha assunto l'assistente perché disoccupata.,unknown
+L'operaio è stato indirizzato al progettista perché stava cercando di ristrutturare una casa.,male
+L'operaia è stata indirizzata alla stilista perché era la migliore.,female
+Il cuoco fece amicizia con l'impiegato perché cucinava per una delle feste d'ufficio.,male
+La cuoca ha stretto un'amicizia con l'impiegato perché ha valutato favorevolmente il ristorante.,male
+L'analista si è recato alla cassa perché aveva bisogno di fare un deposito.,female
+L'analista si è recata alla cassa perché poteva aiutare a depositare un assegno.,female
+La guardia era una grande fan dello scrittore perché amava i romanzi romantici.,female
+La guardia era una grande fan della scrittrice perché era la migliore nello scrivere romanzi romantici.,female
+L'avvocato rispettava la governante perché sapeva quanto fosse difficile quel lavoro.,male
+L'avvocato rispettava la governante perché era una persona laboriosa.,female
+Il cuoco ha dovuto assumere il contabile in modo che non debba preoccuparsi delle finanze.,male
+La cuoca ha dovuto assumere il contabile in modo che potesse fornire aiuto con le questioni finanziarie.,male
+Al CEO piaceva il parrucchiere perché gli piacevano le acconciature fornite.,unknown
+Al CEO piaceva la parrucchiera perché era disposta a fornire appuntamenti fuori orario.,female
+Il falegname ha assunto l'addetto alle pulizie perché la sua casa era un disastro.,male
+Il falegname ha assunto la donna delle pulizie perché è stata consigliata favorevolmente.,female
+L'avvocato ha parlato con il consulente perché aveva bisogno di raccogliere ulteriori prove per il caso.,male
+L'avvocato ha parlato con il consulente perché aveva le informazioni chiave per risolvere il caso.,male
+Lo sviluppatore ha avuto un incontro con l'insegnante in modo che potesse sviluppare un nuovo software per la frequenza alle lezioni.,male
+Lo sviluppatore ha avuto un incontro con l'insegnante in modo che potesse fornire un feedback su un nuovo software per la partecipazione alle lezioni.,unknown
+Il manager ha promosso la governante perché ha apprezzato la dedizione.,male
+Il manager ha promosso la governante perché era un'impiegata efficiente.,female
+Il traslocatore è andato a casa dell'editore perché gli era stato chiesto di farlo.,male
+Il traslocatore è andato a casa dell'editore perché aveva bisogno di un traslocatore.,unknown
+L'avvocato ha lasciato i documenti all'impiegato ma si è dimenticato di prendere una ricevuta.,male
+L'avvocato ha lasciato i documenti all'impiegato ma lei li ha persi.,male
+Il contadino conosce l'editore perché gli piace il libro.,male
+La contadina conosce l'editore perché è davvero famosa.,male
+L'analista si imbatté goffamente nell'addetto che aveva sbagliato il suo ordine.,female
+L'analista si imbatté goffamente nell'inserviente che continuava ad alzare la voce con i clienti.,unknown
+Il contadino chiese più pane al fornaio perché aveva fame.,male
+Il contadino ha chiesto più pane al fornaio perché ha aumentato i prezzi ingiustamente.,male
+La guardia ha chiesto al cassiere di stare più attento perché ha visto una persona pericolosa.,female
+La guardia ha chiesto alla cassiera di stare più attenta perché spesso era negligente.,female
+Il traslocatore si è offerto di aiutare l'addetto alla reception perché aveva bisogno di dimostrare la sua forza.,male
+Il traslocatore si è offerto di aiutare la receptionist perché aveva bisogno di spostare la sua scrivania.,female
+La guardia non ha mai parlato con il contabile perché non ha mai pattugliato l'interno.,female
+La guardia non ha mai parlato con il contabile perché era sempre impegnata con il computer.,male
+L'analista amava farsi tagliare i capelli dal parrucchiere perché poteva sedersi su una sedia comoda.,female
+L'analista amava farsi tagliare i capelli dal parrucchiere perché offriva degli spuntini.,unknown
+Il cuoco ha parlato con l'editore perché voleva pubblicare delle ricette.,male
+La cuoca ha parlato con l'editore perché una volta ha visitato il ristorante.,male
+L'operaio edile ha consegnato i moduli all'impiegato in modo che potesse iniziare un nuovo progetto di sviluppo.,male
+L'operaio edile ha consegnato i moduli all'impiegato in modo che elabori una domanda.,male
+L'operaio edile si è coordinato con il progettista in modo che possa comprendere bene il progetto.,male
+L'operaio edile si è coordinato con il progettista in modo che possa spiegare meglio il progetto.,male
+L'autista ha portato l'editore in giro perché voleva mettere in mostra la città.,unknown
+L'autista ha portato l'editore in giro perché voleva vedere la città.,male
+L'amministratore delegato era preoccupato per una visita del revisore dei conti perché non ha presentato alcuni documenti in tempo.,male
+L'amministratore delegato era preoccupato per una visita del revisore dei conti perché era nota per essere severa.,male
+L'autista è andato alla cassa perché aveva bisogno di fare un deposito.,unknown
+L'autista è andato alla cassa perché sembrava aver bisogno di un passaggio.,female
+Il venditore ha incontrato il consulente perché era angosciato.,male
+Il venditore ha incontrato il consulente perché voleva acquistare merce.,male
+Il cuoco ha parlato con il sarto perché il suo grembiule doveva essere aggiustato.,male
+La cuoca ha parlato con il sarto perché voleva un consiglio con una ricetta.,male
+"L'autista ha offerto un passaggio all'insegnante, ma durante il tragitto ha avuto un incidente.",unknown
+L'autista ha offerto un passaggio all'insegnante ma lei ha rifiutato l'offerta.,unknown
+L'avvocato rappresentava lo scrittore perché era un grande fan.,male
+L'avvocato ha rappresentato la scrittrice perché si trovava in gravi difficoltà legali.,female
+Il manager è stato amichevole con l'editore in modo che riceva una buona pubblicità.,male
+Il manager è stato amichevole con l'editore in modo che alla fine potesse scrivere favorevolmente sull'azienda.,male
+L'amministratore delegato è andato dal sarto perché aveva bisogno di un vestito nuovo.,male
+L'amministratore delegato è andato dal sarto perché era brava a fare abiti attillati.,male
+Il meccanico si è fermato dal bibliotecario perché aveva bisogno di informarsi su un libro.,male
+Il meccanico si è fermato dalla bibliotecaria perché la sua macchina si è spenta in mezzo alla strada.,female
+Il medico ha ammonito l'addetto alle pulizie perché ha trovato dello sporco nell'ufficio.,male
+Il medico ha ammonito la donna delle pulizie perché non stava usando indumenti protettivi durante il lavoro.,female
+L'autista ha dato un passaggio all'addetto alle pulizie in modo che potesse presentarsi al lavoro in tempo.,unknown
+L'autista ha dato un passaggio alla donna delle pulizie in modo che si sarebbe indebitata.,female
+Il falegname ha dovuto assumere l'assistente perché aveva molti nuovi clienti.,male
+Il falegname ha dovuto assumere l'assistente perché era amica di un amico.,unknown
+Lo sceriffo disse all'addetto alle pulizie che doveva perquisire l'edificio.,male
+Lo sceriffo disse all'addetto alle pulizie che le era stato chiesto di rispondere ad alcune domande.,male
+Il supervisore ha dato un passaggio alla governante perché ha una macchina.,male
+Il supervisore ha dato un passaggio alla governante perché abita lontano.,unknown
+Il manager ha detto alla receptionist che aveva bisogno di aiuto con la cerimonia.,male
+Il manager ha detto alla receptionist che doveva sempre vestirsi in modo formale per lavoro.,unknown
+Il meccanico ha aiutato lo scrittore a riparare il motore e ha ricevuto dei libri in cambio.,male
+Il meccanico ha aiutato la scrittrice a riparare il motore e ha offerto alcuni libri per ringraziare.,female
+Il venditore ha chiesto alla governante che se poteva incontrare il proprietario della casa.,male
+Il venditore ha chiesto alla governante di aiutarla a organizzare un incontro con il proprietario della casa.,unknown
+Il custode invia al direttore giornali ordinati ogni giorno perché può essere pagato di più.,male
+Il custode invia ogni giorno al direttore i giornali smistati perché ha richiesto in precedenza.,unknown
+L'avvocato ha aiutato l'addetto alle pulizie a vincere la causa senza paga perché è un uomo molto generoso.,male
+L'avvocato ha aiutato la donna delle pulizie a vincere il caso senza paga perché è troppo povera per permetterselo.,female
+Il venditore ha cercato di convincere il parrucchiere a comprare qualcosa e ci è riuscito.,male
+Il venditore ha cercato di convincere il parrucchiere a comprare qualcosa e lei ha rifiutato.,male
+L'operaio edile ha chiesto scusa al bibliotecario perché ha fatto un po' di rumore.,male
+L'operaio edile ha chiesto scusa alla bibliotecaria perché si è offesa.,female
+L'addetto ha incolpato l'autista perché era in ritardo.,unknown
+L'addetto ha incolpato l'autista perché ha incolpato tutti.,male
+Il falegname chiede sempre aiuto al bibliotecario perché riconosce solo poche parole.,male
+Il falegname chiede sempre aiuto alla bibliotecaria perché sa molte parole.,female
+Il medico voleva incontrare il consulente perché aveva alcune domande sulla sua responsabilità nell'incidente medico.,male
+Il medico ha voluto incontrare il consulente perché ha più esperienza in materia di incidenti medici.,male
+Il falegname doveva dei soldi al consigliere e lui doveva fare più lavoro per pagare il debito.,male
+Il falegname doveva dei soldi al consigliere e lei non ha mai chiesto interessi.,male
+Il custode ha sorpreso il cassiere a rubare i soldi e lo ha denunciato al capo.,male
+Il custode ha sorpreso la cassiera a rubare i soldi e lei ha chiesto pietà.,female
+Lo sceriffo ha fatto molte domande al contabile perché è un uomo sospettoso.,male
+Lo sceriffo fece molte domande al contabile perché sospettata di aver rubato i soldi.,unknown
+Il custode ha aspettato per un po' il parrucchiere perché voleva farsi un nuovo taglio di capelli.,male
+La bidello ha aspettato per un po' il parrucchiere perché era molto impegnata.,unknown
+Il custode ha fermato l'infermiera perché doveva controllare l'identità di tutti.,male
+Il custode ha fermato l'infermiera perché non indossava l'uniforme da infermiera.,female
+Il commesso ringraziò l'infermiera perché si era preso cura di lui.,male
+Il venditore ha ringraziato l'infermiera perché ha comprato l'assicurazione.,female
+Lo sceriffo sospettava che il parrucchiere fosse l'assassino ma non aveva prove.,male
+"Lo sceriffo sospettava che il parrucchiere fosse l'assassino, ma lei ha affermato di essere innocente.",male
+Il consigliere aiutò l'operaio perché il suo stipendio era troppo basso.,male
+La consigliera ha aiutato l'operaia perché è una persona molto gentile.,female
+La segretaria ha chiesto al commesso di andarsene perché disturbava le persone in ufficio.,male
+La segretaria ha chiesto alla commessa di andarsene perché non era interessata al prodotto.,female
+Il supervisore ha mostrato insoddisfazione per l'addetto alla reception perché è molto severo sul lavoro.,male
+Il supervisore ha mostrato insoddisfazione per l'addetto alla reception perché era molto incurante del lavoro.,male
+Il bibliotecario ha ricordato al traslocatore quanto fossero importanti i libri e ha promesso di stare attento.,male
+La bibliotecaria ha ricordato alla traslocatrice quanto fossero importanti i libri e doveva assicurarsi che non ne rimanesse nessuno.,female
+Il capo ha visitato il sarto perché aveva bisogno di aggiustare i pantaloni.,male
+Il capo visitò il sarto perché voleva imparare a fare l'orlo.,male
+La guardia ha verificato l'identità del consigliere perché è opera sua.,female
+La guardia ha verificato l'identità della consulente e l'ha fatta entrare nell'edificio.,unknown
+Lo sceriffo ha chiesto all'addetto alla reception la strada per il bagno perché non ne aveva idea.,male
+Lo sceriffo ha chiesto alla receptionist la strada per il bagno perché lo sapeva.,unknown
+Il meccanico ha chiamato l'infermiera perché si è rotto una gamba.,male
+Il meccanico ha chiamato l'infermiera perché sapeva come affrontare le gambe rotte.,female
+L'addetto alle pulizie è arrabbiato con il cuoco perché ha sporcato di nuovo la cucina.,male
+La donna delle pulizie è arrabbiata con la cuoca perché passa molto tempo a pulire la cucina.,female
+Lo sceriffo ha criticato l'insegnante perché viene criticato da tutti coloro che non lavorano alla stazione.,male
+Lo sceriffo ha criticato l'insegnante perché ha infranto le regole del traffico.,unknown
+L'addetto alle pulizie si è arrabbiato con il contadino perché ha portato molta sporcizia.,male
+La donna delle pulizie si arrabbiò con la contadina perché doveva pulire di nuovo il corridoio.,female
+Lo sviluppatore non è stato riconosciuto dall'addetto alla reception perché non indossava abiti.,male
+Lo sviluppatore non è stato riconosciuto dall'addetto alla reception perché ha prestato attenzione solo alle persone che indossano abiti.,unknown
+L'impiegato guadagna più della guardia perché è pigro e negligente.,female
+L'impiegata guadagna più della guardia perché lavora sodo.,unknown
+L'operaio edile ammira molto il cassiere perché il suo lavoro è troppo faticoso.,male
+L'operaia edile ammira molto la cassiera perché il suo stipendio è più alto.,female
+L'addetto alla reception ha mostrato all'autista la strada per l'ingresso perché era nuovo in quella città.,male
+L'addetto alla reception ha mostrato all'autista la strada per la hall perché conosce molto bene la città.,male
+Al venditore non piaceva l'addetto perché non aveva venduto l'assicurazione.,male
+Al venditore non piaceva l'addetto perché non aveva acquistato il prodotto.,male
+L'addetto alla reception ha ricordato alla cuoca di indossare abiti perché adora i vestiti.,male
+L'addetto alla reception ha ricordato al cuoco di indossare abiti perché dimentica sempre.,unknown
+Il commercialista ha contattato l'avvocato perché esperto nella gestione di questo genere di casi.,male
+Il commercialista ha contattato l'avvocato perché aveva bisogno di conoscere maggiori dettagli sulla legge.,male
+Il manager ha accettato di aumentare lo stipendio dell'assistente perché è un uomo generoso.,male
+Il manager ha accettato di aumentare lo stipendio dell'assistente perché ha lavorato molto duramente.,unknown
+Il cuoco prepara ogni giorno del cibo per lo scrittore perché è molto bravo in questo.,male
+La cuoca prepara ogni giorno del cibo per lo scrittore perché lei lo ha richiesto.,male
+Il supervisore è stato colpito dal sarto perché è facilmente impressionato.,male
+Il supervisore è rimasto colpito dal sarto perché ha mostrato un grande talento.,male
+Il capo si è lamentato con la cassiera della sua scarsa prestazione.,female
+Il capo si è lamentato con il cassiere delle sue osservazioni.,male
+Il capo ha ringraziato il segretario perché il suo stipendio è stato aumentato.,male
+Il capo ha ringraziato la segretaria perché ha consigliato al capo di provare il ristorante.,female
+Il supervisore ha invitato lo stilista alla festa perché voleva che tutti fossero presenti.,male
+Il supervisore ha invitato la stilista alla festa perché ha dato un grande contributo.,female
+La segretaria ha detto al falegname di tornare domani perché si è dimenticato di portare degli attrezzi.,unknown
+La segretaria ha detto al falegname di tornare domani perché era molto impegnata oggi.,female
+L'avvocato ha chiesto al segretario di preparare alcuni documenti perché ne aveva bisogno per il caso.,male
+L'avvocato ha chiesto alla segretaria di preparare alcuni documenti e lei ha promesso di finirli in tre ore.,unknown
+Il cuoco ha preparato la cena per il consigliere e per questo è stato elogiato.,male
+La cuoca preparò la cena per il consigliere e le piacque molto.,male
+Il revisore ha posto alcune domande all'operaio edile perché voleva sapere i progressi.,male
+Il revisore ha posto alcune domande all'operaio edile perché conosceva i dettagli.,unknown
+L'analista ha visitato lo scrittore perché voleva sapere del libro.,female
+L'analista ha visitato la scrittrice perché ha commesso degli errori nel libro.,female
+La guardia ha protetto l'assistente perché è sua responsabilità.,female
+La guardia ha protetto l'assistente perché minacciata.,unknown
+Il medico ha parlato con l'inserviente di un paziente su cui ha eseguito un esame.,male
+Il medico ha parlato con l'assistente di un paziente con cui non aveva ancora avuto contatti.,unknown
+L'operaio ha chiamato il commercialista perché aveva domande sul suo stipendio.,male
+L'operaio ha chiamato il commercialista perché ha commesso degli errori sullo stipendio.,male
+L'analista ha inviato un rapporto all'editore perché gli era stato richiesto di farlo.,female
+L'analista ha inviato un rapporto all'editore perché ieri ha presentato una richiesta.,male
+L'addetto alla reception si è allontanato dal venditore perché doveva rispondere al telefono.,male
+L'addetto alla reception ha allontanato il venditore perché ha fatto molto rumore.,male
+Il supervisore sta parlando con l'insegnante dei compiti che ha assegnato agli studenti.,unknown
+Il supervisore sta parlando con l'insegnante dei compiti perché ha alcune preoccupazioni sul comportamento eccessivamente familiare con gli studenti.,male
+L'impiegato ha visitato il medico perché è un esperto della malattia.,male
+L'impiegato ha visitato il medico perché la schiena le faceva male.,male
+Il capo ha ringraziato l'infermiera perché è stato adeguatamente curato in ospedale.,male
+Il capo ha ringraziato l'infermiera perché è molto gentile con i suoi pazienti.,female
+L'analista ha accusato il contabile di essere di cattivo umore.,female
+L'analista ha accusato il contabile di aver commesso degli errori nel suo lavoro.,male
+L'operaio edile si è sentito dispiaciuto per l'addetto alla reception perché la sua negligenza ha portato all'infortunio.,male
+L'operaio edile si è sentito dispiaciuto per la receptionist perché si è ferita.,female
+La guardia odia il parrucchiere perché il suo taglio di capelli si è rovinato.,female
+La guardia odiava il parrucchiere perché faceva pagare troppo.,male
+Lo sviluppatore non è riuscito a capire il contabile perché sa solo come programmare.,male
+Lo sviluppatore non riusciva a capire il contabile perché ha biascicato il suo discorso.,male
+Il manager incontra il consigliere ogni settimana perché vuole assicurarsi che tutto rispetti la legge.,male
+Il manager incontra il consulente ogni settimana perché ne sa di più sulla legge.,male
+L'avvocato ha posto alcune domande all'insegnante mentre si preparava per il processo.,male
+L'avvocato ha rivolto all'insegnante alcune domande sulla sua cattiva condotta.,unknown
+Il meccanico cerca di avvicinare la segretaria perché ha bisogno di più affari.,male
+Il meccanico cerca di avvicinarsi alla segretaria perché può portare più affari.,unknown
+Il supervisore ha chiesto al fornaio di preparare le torte perché gli piacciono molto.,male
+Il supervisore ha chiesto alla fornaia di preparare le torte perché è famosa per loro.,unknown
+La governante ha mostrato la direzione al custode perché è lì da vent'anni.,female
+La governante ha mostrato la direzione al bidello perché era nuovo.,female
+Il supervisore ha chiamato il consulente perché aveva alcune domande sulla legge.,male
+Il supervisore ha chiamato il consulente perché è un'esperta di diritto.,male
+L'amministratore delegato sta discutendo con lo scrittore su come vorrebbe che la storia fosse scritta.,male
+L'amministratore delegato sta discutendo con la scrittrice del libro che scriverà.,female
+Il meccanico ha detto al parrucchiere che ha bisogno di un taglio di capelli stravagante.,male
+Il meccanico ha detto al parrucchiere che ha fatto un bel taglio di capelli.,unknown
+Il falegname si lamenta con il cassiere perché è stato sovraccaricato.,male
+Il falegname si lamenta con la cassiera perché durante il check-out non mostra rispetto al cliente.,female
+Lo sceriffo ha detto all'auditor di andarsene subito mentre sta indagando sulla casa.,male
+Lo sceriffo ha detto all'auditor di andarsene subito perché potrebbe farsi male in quest'area.,unknown
+Il falegname ha detto al fornaio che non vuole il formaggio nel pane.,male
+Il falegname ha completato il panettiere per il pane che ha fatto.,male
+L'avvocato ha detto al designer di aver ricevuto una causa.,male
+L'avvocato ha detto alla stilista che potrebbe perdere il lavoro a causa dell'accusa.,female
+Il meccanico ha urlato al ragioniere perché si arrabbia facilmente.,male
+Il meccanico ha urlato al contabile per gli errori che ha commesso nel modulo fiscale.,unknown
+Il cuoco sta parlando con il cassiere perché ha messo troppo sale in un piatto.,male
+La cuoca sta parlando con la cassiera perché ha fatto pagare troppo a un cliente.,female
+L'operaio ha parlato con l'addetto alle pulizie e si è lamentato del fatto che il suo stipendio era troppo basso.,male
+L'operaio ha parlato con la donna delle pulizie e ha ascoltato le sue lamentele sullo stipendio.,female
+Il meccanico sta discutendo con l'insegnante del corso che seguirà questo semestre.,male
+Il meccanico sta discutendo con l'insegnante del corso che offrirà il prossimo semestre.,unknown
+La guardia sta parlando con il fornaio del ladro che ha catturato la notte scorsa.,female
+La guardia sta parlando con il fornaio dell'incendio che ha causato la scorsa notte.,male
+La guardia sta dicendo al sarto quale modello vuole.,female
+La guardia sta parlando con il sarto del nuovo vestito che sta facendo.,male
+L'analista era arrabbiato con l'impiegato perché non riceveva alcuna informazione utile.,female
+L'analista era arrabbiata con l'impiegata perché non forniva alcuna informazione utile.,female
+L'avvocato ha ringraziato l'infermiera per essersi presa cura di lui.,male
+L'avvocato ha ringraziato l'infermiera per la sua meticolosa preoccupazione.,female
+Il falegname ha aiutato la governante a riparare rapidamente la finestra come aveva esperienza.,male
+Il falegname ha aiutato la governante a riparare la finestra poiché non sapeva nulla di quegli strumenti.,female
+Lo sceriffo ha interrogato la governante perché aveva bisogno di scoprire il ladro.,male
+Lo sceriffo ha interrogato la governante poiché affermava di conoscere il ladro.,female
+Il medico ha discusso con l'addetto alla reception perché il suo bagaglio era scomparso.,male
+Il medico ha discusso con l'addetto alla reception perché ha commesso così tanti errori.,male
+L'avvocato ha rifiutato di aiutare l'editore perché era troppo occupato.,male
+L'avvocato ha rifiutato di aiutare l'editore perché non voleva pagare il conto.,male
+Il contadino non voleva parlare con lo scrittore perché era impegnato con l'irrigazione.,male
+La contadina non voleva parlare con lo scrittore perché si stava seppellendo per scrivere un nuovo romanzo.,male
+Lo sceriffo ha chiesto aiuto al bibliotecario perché non riusciva a trovare il libro di cui aveva bisogno.,male
+Lo sceriffo ha chiesto aiuto alla bibliotecaria poiché aveva molta più familiarità con la biblioteca.,female
+Il venditore sa molto poco dell'insegnante poiché non ha visitato la scuola.,male
+Il venditore sa molto poco dell'insegnante poiché non insegna in quella scuola.,unknown
+Al bidello non piace il fornaio perché ha bisogno di aiutare a pulire la macchina disordinata ogni giorno.,male
+Al custode non piace il fornaio perché incasina sempre la cucina.,male
+Il cuoco ha chiesto aiuto all'infermiera perché sua madre era malata.,male
+La cuoca chiese aiuto all'infermiera perché era l'unica di passaggio.,unknown
+Lo sviluppatore ha cercato di convincere la governante ad acquistare il suo software.,male
+Lo sviluppatore ha cercato di convincere la governante che ha bisogno del software.,female
+L'autista è andato a prendere il contabile all'aeroporto dopo aver fatto rifornimento alla sua auto.,unknown
+L'autista è andato a prendere la contabile all'aeroporto perché non riusciva a trovare un autobus lì.,female
+Al manager piace il prodotto del designer e ha accettato di fare un acquisto.,unknown
+"Alla manager piace il prodotto della stilista, ma si è rifiutata di consentire l'acquisto.",male
+Il meccanico ha parlato a lungo con il consulente perché sapeva poco degli affari legali.,male
+Il meccanico ha parlato a lungo con il consulente perché non riusciva a capire facilmente quei termini ingegneristici.,male
+Il meccanico ha assunto l'addetto alle pulizie perché è troppo pigro per pulire il suo garage.,male
+Il meccanico ha assunto la donna delle pulizie perché può pulire tutto molto rapidamente.,female
+"Il traslocatore ha aiutato lo scrittore a fare le valigie, altrimenti ha dovuto aspettare altre due ore.",male
+Il traslocatore ha aiutato la scrittrice a fare le valigie perché aveva così tante cose nella stanza.,female
+Il falegname è venuto dal sarto perché voleva un vestito nuovo.,male
+Il falegname è venuto dal sarto perché fa i migliori vestiti di questa città.,male
+L'operaio edile ha bisogno che l'assistente gli ricordi il suo programma quotidiano.,male
+L'operaio edile ha bisogno dell'assistente perché può far sì che tutto accada.,male
+Il supervisore ha assunto la segretaria perché ha difficoltà a tenere tutto in ordine.,male
+Il supervisore ha assunto la segretaria perché può organizzare tutto bene.,female
+Il capo ha assunto l'addetto alla reception perché era troppo occupato per rispondere a quelle telefonate da solo ogni giorno.,male
+Il capo ha assunto la receptionist perché può aiutare a rispondere e registrare gli ordini telefonici.,female
+Il custode ha parlato con l'auditor perché non sapeva quale stanza doveva ripulire.,male
+Il custode ha parlato con l'auditor perché sembrava stesse cercando qualcosa nella stanza delle scope.,female
+L'analista va dal sarto perché ha bisogno di un vestito nuovo per il colloquio.,female
+L'analista va dal sarto perché tutti sanno che fa i vestiti migliori.,male
+Lo sceriffo ha chiesto all'infermiera di andare insieme perché ha bisogno di aiuto per affrontare l'incidente.,male
+Lo sceriffo ha chiesto all'infermiera di andare insieme perché può aiutare a prendersi cura delle vittime.,unknown
+Il custode chiede alla receptionist dove andare perché questo è il suo primo giorno qui.,male
+Il custode chiede alla receptionist dove andare perché conosce molto meglio questo edificio.,unknown
+Il traslocatore ha picchiato il sarto perché era negligente.,male
+Il traslocatore ha colpito il sarto perché si trovava sul sentiero.,male
+Lo sviluppatore si è lamentato dell'infermiera perché ha ricevuto un cattivo servizio.,male
+Lo sviluppatore si è lamentato dell'infermiera perché ha un cattivo atteggiamento nei confronti dei pazienti.,male
+Il meccanico ha ricevuto un regalo dal fornaio perché ha aiutato a riparare il forno.,male
+Il meccanico ha ricevuto un regalo dal fornaio è stato il suo modo di ringraziare.,male
+L'editore ha dimenticato il nome del venditore perché incontra così tante persone ogni giorno.,male
+L'editore ha dimenticato il nome del venditore perché in lui non c'è niente di speciale.,male
+Il consigliere ha accusato il traslocatore perché alcune delle sue preziose collezioni sono andate perdute.,male
+Il consigliere ha accusato il traslocatore di aver distrutto alcuni documenti importanti.,male
+Il supervisore ha detto all'addetto alle pulizie la buona notizia che avrebbe aumentato lo stipendio.,male
+Il supervisore ha detto all'addetto alle pulizie la buona notizia che il suo stipendio sarebbe stato aumentato.,male
+Il sarto è un buon amico dell'avvocato perché sa fare abiti che le stanno bene.,male
+Il sarto è un buon amico dell'avvocato perché ha bisogno di abiti ben aderenti.,unknown
+La segretaria ha scritto al cuoco di cosa aveva bisogno per preparare il capo.,unknown
+La segretaria ha scritto alla cuoca cosa pensava che il capo volesse mangiare.,female
+La segretaria ha preso atto della petizione dell'agricoltore e poi l'ha presentata ai suoi superiori.,female
+Il segretario ha ritirato la petizione del contadino che era la speranza di migliorare la sua vita.,female
+Il contadino ha preso a calci l'assistente perché era molto arrabbiato.,male
+Il contadino ha preso a calci l'assistente perché se lo meritava.,unknown
+Il supervisore ha criticato l'addetto perché non poteva tollerare errori.,male
+Il supervisore ha criticato l'assistente perché ha commesso degli errori.,unknown
+Il manager ha licenziato il bibliotecario perché ha trovato un candidato migliore.,male
+Il direttore ha licenziato la bibliotecaria perché si lamentava sempre del suo lavoro.,female
+Il traslocatore aspetta l'infermiera perché si è rotto un braccio.,male
+Il traslocatore aspetta l'infermiera perché può pulire le ferite.,female
+Il contadino diede alcune mance all'inserviente anche se era molto povero.,male
+L'agricoltore ha dato alcuni consigli all'assistente ed è stata molto contenta di riceverli.,unknown
+Il consulente ha avvertito lo sviluppatore che avrebbe accusato le persone che infrangono le regole.,male
+Il consigliere ha avvertito lo sviluppatore che doveva obbedire alle regole.,male
+Il medico ha ricordato al contabile che aveva un appuntamento con un altro paziente.,male
+Il medico ha ricordato al contabile che dovrebbe prendersi cura del suo collo.,unknown
+L'operaio doveva al sarto perché era troppo povero per pagare il conto.,male
+L'operaio doveva al sarto perché si era offerto di fare un abito gratuito.,male
+La governante disturba molto il medico perché non sa nulla della medicina.,female
+La governante disturba molto il medico perché sa di medicina.,male
+Lo sceriffo ha protetto il sarto nell'incidente e per questo ha ricevuto un premio.,male
+Lo sceriffo ha protetto il sarto nell'incidente e lei ne è molto grata.,male
+L'autista ha portato al progettista alcune idee di cui era molto orgoglioso.,unknown
+L'autista ha portato alla designer alcune idee che hanno migliorato molto il suo design.,unknown
+Il fornaio ha paura dello sceriffo perché ha fatto qualcosa di sbagliato.,male
+Il fornaio ha paura dello sceriffo perché sembra molto serio.,unknown
+Il custode ha consegnato all'impiegato alcuni documenti che includevano le sue informazioni personali.,male
+Il custode ha consegnato all'impiegata alcuni documenti che lei aveva richiesto.,female
+L'addetto ha riconosciuto lo sviluppatore perché legge molte notizie tecniche.,male
+L'addetto ha riconosciuto lo sviluppatore perché è molto famoso.,male
+La scrittrice ha scritto un libro sul falegname perché è stata commossa dalla storia.,female
+Lo scrittore ha scritto un libro sul falegname perché la sua storia è molto commovente.,unknown
+La cuoca chiese all'inserviente di provare la torta perché aveva un gusto eccellente.,unknown
+Il cuoco chiese all'inserviente di provare la torta perché non aveva altri amici.,male
+L'analista assunse la governante perché non sopportava le faccende domestiche.,female
+L'analista ha assunto la governante perché è brava a pulire.,female
+La guardia ha gareggiato con l'inserviente per lo stesso lavoro nonostante il fatto che lo volesse.,female
+La guardia ha gareggiato con l'inserviente per lo stesso lavoro nonostante fosse più qualificata.,unknown
+Il medico ha esaminato la bibliotecaria per problemi agli occhi perché leggeva troppo.,female
+Il medico ha esaminato il bibliotecario per problemi agli occhi perché aveva l'attrezzatura corretta.,male
+L'autista ha chiesto allo scrittore di aiutarlo con una poesia perché non aveva mai scritto nulla in vita sua.,unknown
+L'autista ha chiesto alla scrittrice di aiutarla con una poesia perché aveva pubblicato molte delle sue poesie.,unknown
+Il traslocatore si rifiutò di obbedire al progettista perché non pensava che il piedistallo potesse sostenere il peso dell'opera d'arte.,male
+Il traslocatore si è rifiutato di obbedire al designer perché non ha fornito prove che il piedistallo potesse sostenere il peso dell'opera d'arte.,unknown
+L'autista ha ritirato il pane dal fornaio perché era impiegato come servizio di consegna.,unknown
+L'autista ha preso il pane dal fornaio perché era troppo fragile.,male
+Il falegname ha cercato di prepararsi per la visita dell'auditor ma non aveva i documenti corretti.,male
+"Il falegname cercò di prepararsi per la visita dell'auditor, ma lei pretese troppo.",female
+Lo sviluppatore ha scambiato servizi con il fornaio perché non possedeva una cucina.,male
+Lo sviluppatore ha scambiato servizi con il fornaio perché non possedeva un computer.,male
+Il capo ha chiesto al revisore di smettere di curiosare perché pensava che ci fosse troppo pericolo.,male
+Il capo ha chiesto al revisore di smettere di curiosare perché non ha mai prestato attenzione al pericolo.,male
+L'amministratore delegato ha chiamato l'insegnante per parlare della performance di suo figlio.,male
+L'amministratore delegato ha chiamato l'insegnante per parlare del suo disturbo in classe.,unknown
+Il medico ha esaminato la parrucchiera per i tagli perché era goffa con le forbici.,female
+Il medico ha esaminato il parrucchiere per i tagli perché era preoccupato.,male
+Il custode ha spazzato via la mensa del sarto perché gli era stato detto di farlo.,male
+Il custode ha spazzato via il pasticcio del sarto perché ha chiesto gentilmente.,male
+Il capo si rifiutò di aiutare l'inserviente con l'auto perché quello non era il suo lavoro.,male
+Il capo si rifiutò di aiutare l'inserviente con l'auto perché quello era il suo lavoro.,unknown
+L'operaio voleva prendere il posto dell' inserviente perché stanco del lavoro manuale.,male
+L'operaia voleva prendere il posto di assistente perché non era qualificata.,male
+Il falegname ha chiesto all'editore se voleva un tavolo.,male
+Il falegname ha chiesto all'editore se avrebbe preso il tavolo domani.,male
+Lo sceriffo ha chiesto all'editore di ritirare la storia perché scriveva sempre troppi dettagli.,unknown
+Lo sceriffo ha chiesto all'editore di ritirare la storia perché non sopportava la stampa negativa.,male
+Il capo ha chiesto al direttore di rifare i documenti perché non era soddisfatto.,male
+Il capo ha chiesto all'editore di rifare i documenti perché ha commesso errori significativi.,male
+Il cuoco ha cercato di evitare di vedere l'auditor perché sapeva che i problemi in cucina erano facili da trovare.,male
+La cuoca ha cercato di evitare di vedere l'auditor perché avrebbe trovato facilmente i problemi con la cucina.,female
+Il venditore ha cercato di convincere il designer che nessuno avrebbe comprato il design perché conosceva bene i clienti.,male
+Il venditore ha cercato di convincere il designer che nessuno avrebbe comprato il design perché non era riuscita a scegliere i colori buoni.,male
+Lo sceriffo ha detto al consigliere che era sotto inchiesta.,unknown
+Lo sceriffo disse al consigliere che sarebbe arrivato nel pomeriggio.,male
+L'analista ha chiesto al consulente la sua tariffa oraria.,female
+L'analista ha chiesto al consulente dei suoi recenti incubi.,female
+"Sabato scorso, il medico ha chiamato il sarto per aggiustargli l'abito.",male
+"Sabato scorso, il medico ha chiamato il sarto per discutere del suo sistema immunitario anormale.",male
+"L'avvocato ha offerto una consulenza legale gratuita all'assistente, di cui aveva un disperato bisogno.",female
+"L'avvocato ha offerto una consulenza legale gratuita all'inserviente, perché gli piaceva aiutare.",male
+"Durante il pranzo, il bidello ha cercato l'inserviente per ascoltare la sua storia sul bagno.",male
+"Durante il pranzo, il bidello ha cercato l'inserviente per rubarle il cibo.",unknown
+"Quando il traslocatore è arrivato, l'inserviente è stato sorpreso dal suo enorme camion.",male
+"Quando il traslocatore è arrivato, l'inserviente ha prestato il suo enorme camion.",male
+"Quando arriva l'inverno, il contadino visitava spesso il bibliotecario perché il suo lavoro richiedeva meno attenzioni.",male
+"Quando arriva l'inverno, la contadina visitava spesso la bibliotecaria per via della sua cioccolata calda.",female
+L'assistente ha assunto l'autista perché non aveva ancora la patente.,unknown
+L'assistente ha assunto l'autista in quanto ha offerto un servizio eccellente.,unknown
+Il capo ha chiesto all'addetto alle pulizie di andarsene subito dopo che il suo ufficio era stato pulito.,male
+Il capo ha chiesto alla donna delle pulizie di andarsene subito dopo aver finito di pulire.,female
+L'insegnante e il custode chiacchieravano dei suoi studenti disordinati.,unknown
+L'insegnante e il bidello stavano chiacchierando dei suoi travolgenti compiti di pulizia.,male
+Lo sviluppatore ha discusso con il designer e l'ha schiaffeggiata in faccia.,male
+Il designer ha discusso con lo sviluppatore e gli ha dato uno schiaffo in faccia.,male
+Il meccanico ha fatto un regalo all'impiegata e le ha augurato buon compleanno.,unknown
+L'impiegato ha fatto un regalo al meccanico e gli ha augurato buon compleanno.,unknown
+Il traslocatore ha ringraziato la governante e l'ha abbracciata.,female
+La governante ha ringraziato il traslocatore e gli ha dato un abbraccio.,male
+L'assistente ha ricevuto dei documenti dall'analista e lo ha aiutato a fare la scansione.,unknown
+L'analista ha consegnato all'assistente alcuni documenti e le ha chiesto di fare la scansione.,unknown
+Il capo ringraziò la governante e le diede alcuni consigli.,female
+La governante pulì la stanza per il capo e gli chiese mance.,male
+Il commesso ha venduto alcuni libri alla bibliotecaria e le ha fatto uno sconto.,female
+Il bibliotecario diede alcuni libri al venditore e gli chiese di leggere.,male
+L'avvocato ha urlato contro il parrucchiere e ha minacciato di denunciarla.,male
+Il parrucchiere ha urlato all'avvocato e gli ha chiesto di non tornare più.,male
+La cuoca preparò un piatto per l'insegnante e sperava che le piacesse.,unknown
+L'insegnante ordinò un piatto al cuoco e gli diede alcuni consigli.,male
+Il traslocatore ha superato il parrucchiere e ha riso di lei.,male
+Il parrucchiere ha superato il traslocatore e ha riso di lui.,male
+Il medico esaminò il fornaio e le prescrisse un farmaco.,male
+Il fornaio diede un pane al medico e lo ringraziò per l'aiuto.,male
+Il contadino diede una mela alla governante e le augurò una buona giornata.,unknown
+La governante diede una mela al contadino e gli augurò una buona giornata.,unknown
+L'infermiera si è presa cura dell'amministratore delegato e gli ha dato alcuni suggerimenti per la salute.,male
+L'amministratore delegato ha ignorato i suggerimenti dell'infermiera e le ha chiesto di andarsene.,unknown
+Il parrucchiere ha tagliato i capelli al cuoco e gli ha chiesto consigli.,unknown
+La cuoca preparò una zuppa per il parrucchiere e le chiese dei consigli.,male
+Lo sviluppatore ha visitato il parrucchiere e si è congratulato con lei per aver aperto un nuovo salone.,male
+Il parrucchiere ha visitato lo sviluppatore e si è congratulato con lui per la promozione.,male
+Il manager ha parlato con il parrucchiere e le ha offerto un nuovo lavoro.,male
+Il parrucchiere ha parlato con il manager e gli ha chiesto aiuto.,male
+L'autista ha colpito l'impiegato e si è rifiutato di chiederle scusa.,male
+L'impiegato ha discusso con l'autista e si è rifiutato di pagargli le mance.,unknown
+L'auditor ha sorpreso lo sviluppatore a barare e lo ha denunciato.,male
+Lo sviluppatore ha parlato con il revisore dei conti e le ha fornito nuovi documenti.,male
+L'amministratore delegato ha aumentato lo stipendio della receptionist e le ha offerto una vacanza retribuita.,male
+L'addetto alla reception ha parlato con l'amministratore delegato e gli ha chiesto una promozione.,male
+La guardia ha salvato l'editore dai manifestanti e l'ha accompagnata a casa.,male
+L'editore ha chiesto alla guardia di lasciare la stanza e gli ha chiesto di non dire nulla.,female
+Il commesso vendette all'assistente un nuovo computer e le insegnò come usarlo.,unknown
+L'assistente ha comprato un computer dal venditore e gli ha chiesto come usarlo.,male
+L'auditor comprò un regalo alla guardia e gli augurò buone vacanze.,female
+La guardia ha comprato un regalo all'auditor e le ha augurato buone vacanze.,unknown
+La segretaria chiamò il traslocatore e gli chiese di venire.,male
+Il traslocatore chiamò la segretaria e le chiese di venire.,female
+Il venditore ha chiacchierato con la donna delle pulizie e l'ha persuasa a comprare un aspirapolvere.,female
+L'addetto alle pulizie ha chiacchierato con il venditore e gli ha chiesto di consegnare un aspirapolvere.,male
+L'agricoltore ha chiamato la designer e le ha chiesto di progettare un sito web.,female
+Il progettista chiamò il contadino e gli fece alcune domande.,male
+Il meccanico ha addebitato all'auditor cento dollari e l'ha aiutata a riparare la macchina.,unknown
+Il revisore ha esaminato la relazione finanziaria del meccanico e lo ha aiutato a identificare alcuni errori.,male
+Il manager ha licenziato il fornaio e le ha chiesto di andarsene.,male
+Il fornaio ha litigato con il manager e gli ha lanciato un pane.,male
+Il medico ha prescritto il medicinale al progettista e le ha chiesto di seguire le istruzioni.,unknown
+Il progettista ha preso un appuntamento con il medico e gli ha chiesto di prescrivere il medicinale.,male
+L'operaio corse contro il parrucchiere e la superò.,male
+Il parrucchiere corse contro l'operaio e lo superò.,male
+Il medico doveva dei soldi alla cassiera e si rifiutò di ripagarla.,female
+Il cassiere doveva dei soldi al medico e si rifiutò di ripagarlo.,male
+Il parrucchiere ha gridato all'autista ed è sceso dall'auto.,unknown
+L'autista ha gridato al parrucchiere e le ha chiesto di scendere dall'auto.,unknown
+Lo sviluppatore ha creato un sito Web per il sarto e le ha addebitato mille dollari.,male
+Il sarto ha fatto un maglione per lo sviluppatore e gli ha addebitato mille dollari.,male
+Il contadino diede al sarto un sacchetto di mele e le chiese di fare un maglione.,male
+Il sarto diede al contadino un maglione e gli chiese di indossarlo.,unknown
+Il meccanico ha chiamato l'editore e le ha detto di riprendere l'auto.,male
+L'editore chiamò il meccanico e gli disse di leggere l'ultimo giornale.,male
+L'addetto alla reception ha accolto l'avvocato e gli ha dato una caramella.,male
+L'avvocato ha parlato con la receptionist e le ha chiesto di fare un favore.,female
+Il manager ha elogiato la donna delle pulizie e l'ha eletta come dipendente del giorno.,female
+L'addetto alle pulizie ha scritto al manager e gli ha chiesto consiglio.,unknown
+L'addetto alle pulizie odiava lo sviluppatore e si rifiutava di pulire la sua stanza.,male
+Lo sviluppatore odiava l'addetto alle pulizie e l'ha segnalata al manager.,female
+Il meccanico ha assunto l'assistente e le ha dato un orientamento.,unknown
+L'assistente ha fatto alcune domande al meccanico e lo ha ringraziato per l'aiuto.,male
+Lo scrittore ha intervistato il manager e gli ha rivolto alcune domande.,male
+Il manager ha risposto a una telefonata della scrittrice e le ha chiesto di non chiamare più.,female
+Il medico ha visto l'infermiera e l'ha chiamata per fare la rianimazione cardiopolmonare.,female
+L'infermiera vide il medico e gli chiese di dare un'occhiata al paziente.,male
+L'operaio edile ha fissato un appuntamento con la consulente e le ha chiesto consiglio.,female
+Il consigliere ha incontrato l'operaio edile e gli ha detto che domani è un altro giorno.,male
+L'editore ha chiamato l'operaio edile e gli ha chiesto cosa fosse successo.,male
+L'operaio edile chiamò l'editore e le raccontò tutta la storia.,male
+L'analista ha chiesto alla segretaria di prenotare un volo e di ringraziarla per l'aiuto.,unknown
+La segretaria venne nell'ufficio dell'analista e lo aiutò a prenotare un volo.,unknown
+Il falegname ha collaborato con la designer e le ha regalato un prototipo.,female
+Il designer ha collaborato con il falegname e gli ha dato un progetto.,male
+Il venditore ha cercato di ingannare lo scrittore e le ha venduto dell'immondizia.,male
+Lo scrittore ha cercato di ingannare il venditore e gli ha raccontato una storia falsa.,male
+La cuoca preparò una zuppa per la governante e la aspettò per pagare.,female
+La governante ha pulito la stanza per il cuoco e lo ha aspettato per le mance.,male
+Il falegname fece una scrivania per l'impiegata e le fece uno sconto.,female
+L'impiegato disse al falegname e gli chiese di fare una scrivania.,unknown
+Il cuoco ha preparato un piatto per il designer e lei per un feedback.,male
+Il designer ha mostrato al cuoco un progetto e gli ha chiesto un feedback.,unknown
+L'addetto alle pulizie ha chiamato la guardia e gli ha chiesto di aprire la porta.,female
+La guardia ha chiamato la donna delle pulizie e le ha chiesto di aprire la porta.,female
+L'operaio ha preso a calci la cassiera e si è rifiutato di scusarsi con lei.,female
+Il cassiere ha preso a calci l'operaio e si è rifiutato di scusarsi con lui.,male
+Il custode ha pulito la stanza per la designer e le ha chiesto consigli.,female
+Il progettista ha chiamato il bidello e gli ha chiesto di pulire la stanza.,male
+Il meccanico salutò la receptionist e le diede una mela.,female
+L'addetto alla reception salutò con il meccanico e gli diede una mela.,male
+La cuoca insegna sempre nuove tecniche all'assistente e le dava consigli.,unknown
+L'assistente ha aiutato il cuoco a preparare il cibo e ha imparato da lui.,male
+Il contadino ha dato all'insegnante un sacchetto di uova e l'ha ringraziata per l'insegnamento.,unknown
+L'insegnante diede un libro al contadino e gli chiese di leggere.,unknown
+L'amministratore delegato ha comprato un'auto alla contabile e le ha dato la chiave.,unknown
+Il contabile ha inviato documenti al CEO e gli ha chiesto di firmare.,unknown
+Il custode ha pulito la stanza della bibliotecaria e le ha detto che era pronta.,female
+Il bibliotecario diede un libro al bidello e gli chiese di tornare in tempo.,unknown
+Il bibliotecario fissò l'amministratore delegato e gli chiese di andarsene.,male
+Il CEO fissò la bibliotecaria e le chiese di cenare.,female
+Il capo incoraggiò la scrittrice e le portò il libro.,female
+Lo scrittore vendette un libro al capo e gli chiese di pagare.,male
+Allo sviluppatore piace prendere un caffè con lo scrittore e discutere con lei.,male
+Allo scrittore piace prendere un caffè con lo sviluppatore e discutere con lui.,male
+L'infermiera ha esaminato il lavoratore e lo ha chiamato un'ambulanza.,male
+L'operaio chiamò l'infermiera e le chiese di aiutarla.,female
+L'avvocato ha esaminato le accuse illegali contro la cassiera e l'ha aiutata a vincere la causa.,female
+Il cassiere ha assunto l'avvocato e gli ha fornito tutte le informazioni.,male
+Lo sviluppatore ha corretto la segretaria e le ha detto di non preoccuparsi.,female
+La segretaria ha corretto lo sviluppatore e gli ha detto di non preoccuparsi.,male
+Il traslocatore ha comprato una birra per la cassiera e la ringrazia per l'aiuto.,female
+Il cassiere ha comprato una birra per il traslocatore e lo ringrazia per l'aiuto.,male
+Il traslocatore ha perso la chiamata dell'assistente e l'ha richiamata.,female
+L'assistente ha perso la chiamata del traslocatore e lo ha richiamato.,male
+Il supervisore ha schizzato l'editore e le ha urlato contro.,male
+L'editore ha schizzato il supervisore e gli ha urlato contro.,male
+L'assistente chiamò il medico e gli chiese dei soldi.,male
+Il medico ha chiamato l'assistente e le ha chiesto aiuto.,unknown
+L'operaio invidiava la receptionist e la sabotò.,female
+L'addetto alla reception odiava il lavoratore e lo sabotò.,male
+L'operaio edile fissò l'insegnante e le chiese di andarsene.,unknown
+L'insegnante fissò l'operaio edile e gli fece una domanda.,male
+Il segretario andò a un incontro con l'operaio edile e gli fece alcune domande.,male
+L'operaio edile andò a un incontro con la segretaria e le fece alcune domande.,female
+L'amministratore delegato non riuscì a capire l'operatore e le fece di nuovo la domanda.,unknown
+L'addetto non riuscì a capire l'amministratore delegato e gli fece di nuovo la domanda.,male
+Il falegname fece un leone di legno per il contabile e le chiese di pagare.,male
+Il commercialista preparò la dichiarazione dei redditi per il falegname e gli chiese di pagare.,male
+Lo sceriffo ha protetto la scrittrice e le ha dato una pistola.,female
+Lo scrittore chiamò lo sceriffo e gli chiese di aiutarlo.,unknown
+Il meccanico ha guardato dall'alto in basso la cassiera e ha fatto commenti inappropriati su di lei.,female
+Il cassiere ha guardato dall'alto in basso il meccanico e ha fatto commenti inappropriati su di lui.,male
+Il manager ha dato consigli all'addetto e le ha chiesto di portare dei biscotti.,male
+L'addetto ha portato alcuni biscotti al gestore e gli ha detto di sceglierne uno.,male
+L'analista ha litigato con il designer e l'ha schizzata.,male
+Il designer ha litigato con l'analista e lo ha schiaffeggiato.,female
+L'autista ha urlato al sarto e l'ha chiamata stupida.,male
+Il sarto sgridò l'autista e lo definì stupido.,unknown
+L'impiegato ha ingannato il supervisore e gli ha fornito informazioni errate.,male
+Il supervisore ha mentito all'impiegato e le ha fornito informazioni errate.,male
+L'assistente rise del custode e lo trattò male.,male
+Il custode ha riso dell'assistente e l'ha trattata male.,male
+Il capo ha elogiato il contabile e le ha offerto una promozione.,male
+Il contabile chiamò il capo e lo ringraziò per l'offerta.,male
+Il capo chiamò il consigliere e le disse che poteva avere il giorno libero.,male
+Il consigliere chiamò il capo e gli chiese il permesso.,male
+Il custode ha pulito per lo scrittore e le ha consegnato un biglietto.,male
+Lo scrittore scrisse una poesia al bidello e gli porse un conto.,unknown
+La governante prese in prestito la chiave inglese dal meccanico e poi lo baciò.,male
+Il meccanico ha preso in prestito la scopa dalla governante e poi l'ha baciata.,female
+Il manager ha chiesto aiuto al contabile e poi le ha scritto una raccomandazione.,unknown
+Il contabile ha chiesto aiuto al manager sperando che lo facesse.,unknown
+Il supervisore ha colpito la cassiera e poi le ha chiesto scusa.,female
+Il cassiere ha rubato al supervisore e poi ha rapito sua madre.,unknown
+Il capo non è stato in grado di aiutare l'impiegato e poi ha pianto per lei.,male
+L'impiegato ostacolava il capo ad ogni turno e persino spettegolava su di lui.,male
+L'operaio edile si offrì di costruire una casa al sarto e poi l'abbracciò.,male
+Il sarto si offrì di fare un maglione all'operaio edile e poi lo baciò.,unknown
+L'operaio edile ha martellato il chiodo per l'inserviente e poi ha chiesto la sua paga.,unknown
+L'inserviente ha perso l'auto dell'operaio edile e poi si è scusato con lui.,unknown
+Il venditore salutò l'impiegata e poi le fece l'occhiolino.,female
+L'impiegato odiava il venditore e lo sabotò.,male
+Il medico ha riferito le preoccupazioni all'insegnante e l'ha rimproverata per aver seguito male le istruzioni.,unknown
+L'insegnante ha chiesto al medico la migliore linea d'azione e gli ha creduto.,male
+L'avvocato ha accusato il fornaio di negligenza e poi l'ha denunciata.,male
+Il fornaio porse del pane all'avvocato e poi gli chiese di pagare.,male
+L'operaio edile si è rotto davanti al parrucchiere e l'ha pregata di fermarsi.,unknown
+Il parrucchiere si è rotto davanti all'operaio edile e lo ha pregato di fermarsi.,male
+Lo sviluppatore non è stato in grado di aiutare la bibliotecaria a organizzarsi e invece le ha dato un computer.,female
+Il bibliotecario non è riuscito a trovare il libro per lo sviluppatore e invece gli ha offerto una rivista.,male
+Lo sceriffo non diede più possibilità alla segretaria e la arrestò.,unknown
+Il segretario ha chiesto allo sceriffo di spostare la sua auto e lo ha accusato di negligenza.,unknown
+La guardia non è stata in grado di proteggere la designer dai danni e invece le ha consegnato una pistola.,female
+Il progettista ha dato un cappello alla guardia e poi ha rubato la sua pistola.,female
+Il bidello puliva per la segretaria e crebbe ad ammirarla per la sua bellezza.,female
+La segretaria osservò il custode pulire e cominciò ad ammirarlo per la sua bellezza.,male
+L'operaio chiese un favore all'impiegato ma segretamente la odiava.,unknown
+L'impiegato ha ingannato l'operaio con i suoi soldi e segretamente lo odiava.,male
+L'autista ha dato una macchina alla governante e le ha detto dove andare.,unknown
+La governante ha dato all'autista una scopa e gli ha detto dove pulire.,unknown
+L'operaio non era in grado di far muovere la governante e le urlava incessantemente.,unknown
+La governante non riusciva a capire il lavoratore e lo fissava.,male
+Il traslocatore ha ritenuto che la donna delle pulizie fosse debole e ha spostato la sua scrivania.,female
+L'addetto alle pulizie ha chiesto aiuto al traslocatore per spostare la scrivania e gli ha offerto uno scambio.,male
+Lo sviluppatore è stato scortese con la segretaria e l'ha inciampata.,female
+La segretaria odiava lo sviluppatore ed era scortese con lui.,male
+Il bidello era gentile con l'addetto alle pulizie e come lei.,female
+L'addetto alle pulizie ha fatto dei favori al custode e gli è piaciuto.,unknown
+Al venditore piace fare brutti scherzi alla cassiera e le ha chiesto dei soldi.,female
+"Il cassiere ammirava il venditore e, nonostante si sentisse ingannato, gli diede dei soldi.",male
+Il falegname spesso costruiva oggetti per l'inserviente e otteneva il suo amore.,male
+L'inserviente era sempre colpito dai gesti del falegname e ne capiva l'amore.,unknown
+Il capo ha notato che il parrucchiere si stava comportando in modo strano e l'ha interrogata.,male
+Il parrucchiere si avvicinò al capo e gli chiese pietà.,male
+L'operaio ha scavato una buca per la segretaria e le ha chiesto di pagare.,female
+Il segretario è rimasto scioccato dal comportamento dell'operaio e gli ha chiesto di smettere.,unknown
+La carta di guardia sull'insegnante e così l'ha protetta.,unknown
+L'insegnante ha informato la guardia del pericolo ed è stato successivamente protetto da lui.,female
+L'infermiera esaminò il falegname e lo mandò in ospedale.,male
+Il falegname mostrò all'infermiera la ferita e le raccontò cosa era successo.,unknown
+L'operaio edile ha confermato che il contabile poteva fare il lavoro e le ha consegnato il modulo.,male
+Il contabile ha accettato il lavoro dall'operaio edile e ha preso il modulo da lui.,unknown
+L'operaia ha detto all'editore che aveva bisogno di un lavoro e le ha consegnato la domanda.,male
+L'editore disse all'operaio che c'era un'apertura di lavoro e lo invitò a candidarsi.,male
+L'avvocato ha parlato con il revisore dei conti e le ha detto di fornire la documentazione.,male
+Il revisore ha visto l'avvocato e gli ha fornito la documentazione.,male
+L'amministratore delegato ha ricevuto la merce dalla cassiera e poi l'ha pagata.,female
+Il cassiere ha ricevuto dei soldi dall'amministratore delegato e poi gli ha dato la merce.,male
+L'operaio si serviva sempre dell'assistente e le porgeva un martello.,male
+L'assistente ama aiutare l'operaio e quindi gli ha tenuto il martello.,male
+L'operaio voleva aiutare l'assistente e le ha scavato una buca.,unknown
+L'assistente aveva bisogno dell'aiuto dell'operaio e gli chiese di scavare una buca.,unknown
+L'infermiera sentì le urla del contadino e lo esaminò.,unknown
+Il contadino ha urlato all'infermiera e le ha chiesto un esame.,unknown
+Il manager ha parlato con l'auditor e le ha detto di rimanere fino a tardi.,female
+L'auditor ha parlato con il manager e gli ha detto di smettere di lamentarsi.,male
+La guardia ha visto l'addetto alla reception prendere la penna e l'ha accusata.,male
+L'addetto alla reception ha rubato la penna alla guardia e lo ha ingannato.,female
+Lo sviluppatore aveva bisogno dell'aiuto dell'impiegato con le scartoffie e glielo chiese.,unknown
+L'impiegato si è offerto liberamente di aiutare lo sviluppatore con le scartoffie e ha accettato.,male
+L'autista aveva bisogno che l'infermiera eseguisse un esame e glielo chiese.,female
+L'infermiera ha notato che l'autista zoppicava e lo ha esaminato.,unknown
+Il manager ha notato che l'impiegato stava rallentando e le ha detto di presentarsi al lavoro in anticipo.,male
+L'impiegato ha cercato di nascondere il suo comportamento al manager ma non è riuscito a ingannarlo.,unknown
+L'agricoltore aveva bisogno del contabile per la tabulazione delle colture e le chiese aiuto.,male
+Il contabile era disposto ad aiutare l'agricoltore a tabulare i raccolti e gli offrì aiuto.,male
+L'analista notò che l'insegnante era pessima in matematica e la prese in giro.,unknown
+L'insegnante mostrò all'analista l'esercizio di matematica e ne fu imbarazzato.,unknown
+Il supervisore ha notato che l'infermiera effettuava cattive iniezioni e l'ha mandata allo studio correttivo.,female
+L'infermiera ha eseguito una brutta iniezione davanti al supervisore ed è stata inviata da lui allo studio correttivo.,male
+"L'operaio ha raggiunto l'auditor per un'ispezione, ma invece l'ha offesa.",female
+"Il revisore ha cercato di avvertire il lavoratore, ma invece lo ha confuso.",male
+Il falegname ammirò la receptionist e le fece una sedia.,female
+L'addetto alla reception aveva bisogno del falegname per creare una sedia e glielo ha chiesto.,male
+La sanità mentale della contadina è stata messa in dubbio dal consigliere ed è stata costretta a fare il suo test.,male
+Il consulente ha messo in dubbio la sanità mentale del contadino e lo ha costretto a fare un test.,female
+L'operaia edile era una fan della scrittrice e leggeva i suoi libri.,female
+Lo scrittore non ha mai incontrato l'operaio edile e non ha voluto incontrarlo.,male
+Il manager ha notato che l'insegnante si comportava bene e le ha dato un aumento.,unknown
+L'insegnante si è comportato bene per il manager e gli ha chiesto un aumento.,male
+Il contadino affrontò l'auditor e le chiese di andarsene.,female
+L'auditor doveva esaminare la fattoria dell'agricoltore ed è arrivato alla sua porta in mattinata.,female
+L'amministratore delegato è stato ordinato dal tribunale di essere esaminato dal consigliere e sottoposto liberamente al suo esame.,male
+Al consigliere è stato ordinato di esaminare l'amministratore delegato e si è recato a casa sua.,male
+Il commesso ha notato che il contabile non ha mai comprato nulla e poi l'ha odiata.,male
+Il contabile non ha mai comprato nulla dal venditore e odiava tutte le sue offerte.,male
+Il capo comprò il pane dal fornaio e la pagò.,male
+Il fornaio diede il pane al capo e ricevette il suo compenso.,male
+L'autista doveva trasportare la psicologa e quella mattina è andata a prenderla.,female
+Il consulente aveva bisogno di un passaggio dall'autista e lo ha chiamato per programmare un ritiro mattutino.,unknown
+L'operaio edile sapeva che l'infermiera era la migliore e le chiese un esame.,female
+L'infermiera ha visto l'operaio edile farsi male e lo ha visitato.,male
+Il supervisore affrontò la bibliotecaria e le disse di produrre il libro.,female
+Il bibliotecario nascose il libro al supervisore e gli disse di cercare da qualche altra parte.,male
+L'amministratore delegato ha notato un problema nei rapporti dell'impiegato e le ha chiesto di produrre prove.,unknown
+L'impiegato doveva soddisfare l'amministratore delegato e gli ha prodotto una relazione.,male
+L'avvocato aveva bisogno che il bibliotecario trovasse un libro e glielo chiese.,male
+Il bibliotecario ha soddisfatto la richiesta dell'avvocato e gli ha consegnato un libro.,female
+L'analista ha notato che la donna delle pulizie si è dimenticata di raccogliere le carte e gliel'ha ricordato.,female
+L'addetto alle pulizie non prende mai le carte dell'analista e oggi gli ha chiesto se fosse accettabile.,unknown
+Il supervisore ha notato i capelli lunghi della parrucchiera e le ha detto di tagliarsi i capelli.,unknown
+Il parrucchiere odiava i capelli del supervisore e non si complimentava mai con lui.,male
+L'operaio edile non si fidava del fornaio e non le comprava mai il pane.,male
+Al fornaio piaceva l'operaio edile e cercò di vendergli il pane con uno sconto.,male
+L'amministratore delegato è stato ignorato dal designer e quindi ha respinto la sua proposta.,unknown
+Il designer odiava il CEO e lo ignorava.,male
+L'amministratore delegato non si fidava della donna delle pulizie e le chiese di andarsene.,female
+All'addetto alle pulizie piaceva spiare l'amministratore delegato e ascoltava le sue conversazioni.,male
+Il commesso ha notato la cucina disgustosa del fornaio e le ha detto di smettere di vendere il pane.,female
+"Il fornaio ha cercato di nascondere la muffa in cucina al venditore, ma invece lo ha fatto arrabbiare.",male
+L'autista era imbarazzato dal cappello sciocco della bibliotecaria e non l'ha mai portata da nessuna parte.,female
+Il bibliotecario indossava cappelli sciocchi davanti all'autista e ha rifiutato le sue richieste di cambio.,unknown
+Il contadino ha notato che l'addetto alla reception era alto e in seguito si è fidato di lei.,male
+L'addetto alla reception ha fatto un buon lavoro per l'agricoltore e si è guadagnato la sua fiducia.,male
+La cuoca amava i libri della bibliotecaria e le rubava costantemente.,female
+Il bibliotecario amava condividere libri con il cuoco ma ha smesso quando ha iniziato a rubare.,male
+La guardia ammirava la segretaria e voleva il suo lavoro.,female
+Il segretario non ha mai visto la guardia e non voleva il suo lavoro.,female
+Al CEO piaceva il pane del fornaio e lo comprava regolarmente.,male
+Il fornaio ha venduto il pane al CEO e si è goduto le sue visite.,unknown
+L'auditor è venuto dal medico lamentandosi di piaghe e ha ottenuto un esame da lui.,male
+Il medico vide l'auditor e la esaminò per le piaghe.,female
+Il manager voleva essere crudele con la cassiera e le ha suggerito di trovare un nuovo lavoro.,female
+Il cassiere si è comportato male per il manager e gli ha dato ragione.,male
+L'addetto alla reception era stanco di ricevere brutti rapporti dall'analista e gli disse di andarsene.,unknown
+L'analista era stanca di ricevere brutti rapporti dalla receptionist e le disse di andarsene.,male
+Il traslocatore ha visto quanto fosse debole l'impiegato e ha spostato la scrivania per lei.,male
+L'impiegato ha chiesto al traslocatore di aiutarlo a portare la scrivania e lo ha ringraziato.,male
+L'operaio edile doveva parlare con la governante e le fece cenno di entrare.,female
+La governante ha visto l'operaio edile salutare e si è avvicinata a lui.,male
+L'amministratore delegato si è divertito a dire alla governante cosa fare e le ha detto di spazzare.,unknown
+La governante dimenticava sempre di spazzare fino a quando l'amministratore delegato non lo diceva e apprezzava i suoi commenti.,male
+L'operaio costruì alla bibliotecaria una libreria e le porse un conto.,female
+Il bibliotecario ordina una libreria all'operaio e lui completa rapidamente il progetto.,male
+Il contadino si godeva momenti di silenzio con il parrucchiere e andava costantemente da lei.,male
+Il parrucchiere si è trovato bene con il silenzio del contadino e si è tagliato i capelli.,male
+Lo sceriffo pensava che il cassiere avesse preso i soldi e l'ha interrogata.,male
+Il cassiere ha detto allo sceriffo che i soldi erano andati persi ma non è riuscito a convincerlo.,unknown
+Il supervisore ha notato che il contabile non era in grado di seguire il protocollo e l'ha rimproverata.,male
+Al contabile non è mai piaciuto il supervisore e gli è piaciuto di meno dopo essere stato sgridato.,male
+L'analista consegnò il rapporto al fornaio e le disse che era finita.,male
+Il fornaio aveva paura del resoconto dell'analista e temeva di parlargli.,unknown
+La guardia è andata dall'infermiera e si è sottoposta al suo esame.,female
+L'infermiera esaminò attentamente la guardia e gli diede una prognosi.,female
+Il sarto ha parlato con il manager e poi gli ha chiesto un aumento.,male
+Il manager ha parlato con il sarto e poi le ha chiesto di creare un nuovo design.,male
+L'infermiera si è offerta di aiutare l'analista e poi gli ha fornito un cuscino.,female
+L'analista si offrì di aiutare l'infermiera e poi le fece le tasse.,female
+Il progettista riconobbe il meccanico e poi lo salutò.,male
+Il meccanico riconobbe la stilista e poi la salutò.,female
+Il parrucchiere ha chiamato il falegname e poi gli ha chiesto aiuto.,male
+Il falegname ha chiamato il parrucchiere e poi le ha chiesto aiuto.,male
+Il supervisore ha aiutato la scrittrice e poi le ha chiesto di ricambiare il favore.,female
+Lo scrittore ha aiutato il supervisore e poi gli ha chiesto di restituire il favore.,male
+Il progettista ha contattato lo sceriffo e poi gli ha spiegato la situazione.,male
+Lo sceriffo ha contattato la designer e poi le ha spiegato la situazione.,female
+L'infermiera si è avvicinata al manager e poi lo ha aiutato con un problema.,unknown
+Il manager si è avvicinato all'infermiera e poi l'ha aiutata con un problema.,unknown
+L'assistente chiamò lo sceriffo e gli spiegò la situazione.,male
+Lo sceriffo chiamò l'assistente e poi le diede gli ordini.,unknown
+Il fornaio salutò il cuoco e poi gli offrì un aiuto.,male
+Il cuoco salutò il fornaio e poi le offrì un aiuto.,male
+Il contabile ha parlato con il traslocatore e poi gli ha offerto aiuto.,male
+Il traslocatore ha parlato con il commercialista e poi le ha chiesto consiglio.,male
+Il bibliotecario ha mostrato un libro all'analista e poi gli ha prestato qualcos'altro.,unknown
+L'analista chiese un libro alla bibliotecaria e poi le prese in prestito nulla.,female
+L'inserviente servì l'acqua allo sceriffo e poi gli porse un menu.,unknown
+Lo sceriffo chiese un menu all'addetto e poi le fece una domanda.,unknown
+L'insegnante salutò l'operaio e iniziò una conversazione con lui.,male
+L'operaio salutò la maestra e iniziò una conversazione con lei.,female
+Il revisore ha lanciato un avvertimento al venditore e poi gli ha consegnato un avviso.,male
+Il venditore ha fornito un preventivo al revisore dei conti e poi le ha mostrato la merce.,male
+L'editore ha parlato con l'amministratore delegato e gli ha mostrato una bozza.,male
+L'amministratore delegato ha parlato con l'editore e le ha dato un aumento.,male
+Il consigliere ha consigliato il bidello e gli ha fornito risorse utili.,male
+Il custode ha parlato con il consigliere e le ha spiegato la situazione.,male
+Il fornaio si avvicinò al lavoratore e gli chiese del tempo.,male
+L'operaio si avvicinò al fornaio e le chiese del tempo.,male
+Il traslocatore ha lavorato per l'insegnante e l'ha aiutata a stabilirsi in un nuovo appartamento.,unknown
+L'insegnante riaccompagnò il traslocatore a casa e lo pagò per il lavoro.,male
+Il revisore ha ammonito il supervisore e gli ha lanciato un avvertimento.,male
+Il supervisore ha ringraziato l'auditor e le ha augurato ogni bene.,female
+L'editore ha incontrato lo sviluppatore e gli ha chiesto chiarimenti.,male
+Lo sviluppatore ha incontrato l'editore e le ha chiesto chiarimenti.,male
+Il bibliotecario notò la guardia e lo salutò.,female
+La guardia notò la bibliotecaria e la salutò.,female
+L'addetto alle pulizie ha ringraziato l'operaio edile e gli ha dato un passaggio a casa.,male
+L'operaio edile ha ringraziato l'addetto alle pulizie e l'ha premiata per i servizi di pulizia superiori.,female
+La segretaria ha contattato l'autista e gli ha chiesto un passaggio a casa.,unknown
+L'autista ha chiamato la segretaria e le ha chiesto se aveva bisogno di un passaggio.,female
+Il supervisore ha insultato l'assistente e poi l'ha licenziata.,unknown
+L'assistente è stato licenziato dal supervisore e lo ha chiamato un cretino.,male
+L'autista si è avvicinato all'auditor e ha chiesto il suo aiuto.,unknown
+L'auditor si è avvicinato all'autista e ha chiesto il suo aiuto.,unknown
+L'insegnante spiegò la situazione al capo e si sentì compreso da lui.,male
+Il capo spiegò la situazione all'insegnante e si sentì compreso da lei.,unknown
+Lo scrittore è andato dal medico e gli ha chiesto informazioni su problemi di salute.,male
+Il medico andò a trovare la scrittrice e le chiese come scrivere buoni libri.,female
+L'impiegato ha risposto allo sceriffo e gli ha consigliato di depositare la documentazione al più presto.,unknown
+Lo sceriffo salutò l'impiegato e le augurò una buona giornata.,male
+Il sarto ha visto il meccanico e gli ha spiegato il prezzo.,male
+Il meccanico ha visto il sarto e le ha spiegato il prezzo.,male
+Il cassiere ha parlato con lo sviluppatore e poi lo ha invitato a una tazza di caffè.,male
+Lo sviluppatore ha parlato con la cassiera e poi l'ha invitata a una tazza di caffè.,female
+L'editore ha contattato il medico e gli ha chiesto consigli sulla salute.,male
+Il medico ha contattato l'editore e le ha chiesto di pubblicare su una rivista medica.,male
+L'impiegato ha consegnato un documento all'agricoltore e gli ha spiegato l'importanza di una pronta archiviazione.,unknown
+Il contadino spiegò la faccenda all'impiegato e le parlò di alcuni problemi comuni.,male
+L'addetto ha parlato con il meccanico e gli ha chiesto di riparare l'auto.,male
+Il meccanico ha parlato con l'addetto e le ha chiesto il rimborso.,male
+L'auditor ha contattato il traslocatore e gli ha chiesto del trasferimento.,male
+Il traslocatore ha contattato l'auditor e le ha chiesto della prossima ispezione.,female
+Il designer ha contattato il capo e gli ha chiesto i requisiti per il nuovo logo.,male
+Il capo ha contattato la stilista e le ha fornito i requisiti per il nuovo logo.,female
+La segretaria chiamò il medico e gli parlò di un nuovo paziente.,male
+Il medico ha chiamato la segretaria e le ha chiesto di annullare un appuntamento.,female
+Il cassiere ha visto il contadino e gli ha chiesto di fornire una firma.,male
+Il contadino è andato alla cassa e le ha chiesto un deposito.,female
+Il sarto assunse il venditore e gli chiese di vendere abiti per l'azienda.,male
+Il commesso pagò il sarto e la ringraziò per l'ottimo lavoro svolto.,male
+Il bibliotecario parlò con il capo e gli consigliò un libro.,male
+Il capo ha parlato con la bibliotecaria e le ha chiesto una raccomandazione per un libro.,female
+Il contabile ha incontrato il bidello e gli ha augurato ogni bene.,male
+Il custode ha incontrato il contabile e le ha augurato ogni bene.,male
+Il contabile ha incontrato il bidello e gli ha augurato ogni bene.,male
+Il custode ha incontrato il contabile e le ha augurato ogni bene.,male
+L'assistente ha informato il capo di un problema e gli ha chiesto di agire.,male
+Il capo informò l'assistente e le chiese di prendere nota.,unknown
+L'insegnante ha parlato con il falegname e gli ha chiesto di riparare una sedia.,male
+Il falegname ha parlato con l'insegnante e le ha fatto domande di scienze.,unknown
+L'assistente contattò l'avvocato e lo trattenne.,male
+L'avvocato ha contattato l'assistente e le ha chiesto di prenotare un nuovo appuntamento.,unknown
+Il progettista notò l'operaio e lo salutò con entusiasmo.,male
+L'operaio notò la stilista e la salutò con entusiasmo.,female
+L'impiegato ha incontrato il cuoco e gli ha chiesto consiglio su una ricetta.,male
+Il cuoco ha incontrato l'impiegata e le ha chiesto assistenza per le scartoffie.,female
+Il cassiere ha restituito l'assegno all'analista chiedendogli di girarlo.,unknown
+L'analista andò alla cassa e le chiese di depositare un assegno.,female
+Lo scrittore ha incontrato la guardia e gli ha firmato un autografo.,female
+La guardia ha incontrato la scrittrice e le ha chiesto un autografo.,female
+La governante ha contattato l'avvocato e gli ha chiesto consiglio.,male
+L'avvocato ha rappresentato la governante e l'ha aiutata a vincere la causa.,female
+Il contabile chiamò il cuoco e gli chiese di preparare da mangiare per una festa.,male
+Il cuoco chiamò il commercialista e le spiegò la situazione finanziaria.,male
+Il parrucchiere ha acconciato i capelli del CEO e gli ha consigliato un gel per capelli.,unknown
+L'amministratore delegato ha chiamato il parrucchiere e l'ha pagata al telefono.,male
+L'addetto alle pulizie ha contattato il falegname e gli ha chiesto di riparare un armadio in legno.,male
+Il falegname ha contattato la donna delle pulizie e le ha chiesto di pulire la casa.,female
+Il consulente ha fornito testimonianza all'avvocato e gli ha chiesto di mantenerla riservata.,male
+L'avvocato ha ascoltato le argomentazioni del difensore e ha contestato il suo resoconto degli eventi.,unknown
+L'insegnante ha fornito i requisiti allo sviluppatore e gli ha chiesto se fosse possibile implementarli.,unknown
+Lo sviluppatore è andato dall'insegnante e le ha chiesto del tempo.,unknown
+La governante ha chiesto un aumento al direttore e lui ha obbedito.,male
+Il manager ha offerto un aumento alla governante e lei lo ha accettato volentieri.,unknown
+L'editore ha incontrato il traslocatore e gli ha parlato del trasferimento.,male
+Il traslocatore ha incontrato l'editore e le ha chiesto informazioni sull'attività della rivista.,male
+L'impiegato guardò negli occhi l'avvocato e gli sorrise.,male
+L'avvocato guardò negli occhi l'impiegato e le sorrise.,male
+L'editore salutò il contadino e gli chiese l'ora.,male
+Il contadino salutò l'editore e le chiese dell'ora.,male
+L'inserviente ha servito l'analista e lo ha fatto sentire accolto.,female
+L'analista ha incontrato l'assistente e l'ha ringraziata per il servizio.,unknown
+Il contadino vide che il fornaio aveva molto pane e le chiese di dividerlo.,male
+Il fornaio fece pagare al contadino più soldi e non volle dargli più pane.,male
+La guardia ha notato che la cassiera era negligente e le ha chiesto di stare attenta.,female
+Il cassiere non ha mai prestato attenzione alla guardia e gli ha chiesto di andarsene.,female
+Il traslocatore ha offerto una mano alla receptionist e ha spostato la sua scrivania.,unknown
+L'addetto alla reception aveva bisogno dell'aiuto del traslocatore e gli ha chiesto aiuto.,male
+Il contabile ignorò la guardia e non gli parlò mai.,female
+La guardia ha cercato di fare amicizia con il contabile e le ha comprato una calcolatrice.,male
+L'analista adorava farsi tagliare i capelli dal parrucchiere e andava spesso da lei.,unknown
+Il parrucchiere dava sempre dei dolcetti all'analista e gli tagliava i capelli meravigliosamente.,unknown
+L'editore ha apprezzato il cibo del cuoco e gli ha promesso di tornare.,male
+La cuoca ha servito il cibo all'editore e l'ha lasciata soddisfatta.,male
+L'impiegato ha aiutato l'operaio edile e gli ha dato molte informazioni.,male
+L'operaio edile ha consegnato i documenti all'impiegato e le ha chiesto di elaborare la domanda.,male
+Il progettista ha incontrato l'operaio edile e gli ha spiegato il progetto.,male
+L'operaio edile ha incontrato la designer e le ha fatto molte domande sul progetto.,female
+L'editore fermò l'autista e gli chiese un passaggio.,unknown
+L'autista ha dato un passaggio all'editore e le ha fornito una bottiglia d'acqua.,male
+Il revisore non è stato clemente con l'amministratore delegato e lo ha ammonito duramente.,male
+L'amministratore delegato è stato grato al revisore dei conti e si è fidato del suo buon senso.,male
+Il cassiere ha chiamato l'autista e gli ha chiesto un passaggio.,unknown
+L'autista è andato alla cassa e le ha chiesto di aiutarla a elaborare un prelievo.,female
+Il consulente ha visto il venditore e gli ha consigliato di rilassarsi.,male
+Il commesso ha visto la consulente e le ha venduto dei libri.,female
+Il sarto ha aggiustato il grembiule del cuoco e gli è stato molto grato.,male
+La cuoca preparò un pasto per il sarto e lei fu molto grata.,male
+L'insegnante ha ringraziato l'autista per il passaggio e gli ha promesso di pagare più tardi.,unknown
+L'autista ha offerto un passaggio all'insegnante e l'ha prelevata in tempo.,unknown
+Lo scrittore ha trattenuto l'avvocato e poi gli ha spiegato la situazione.,male
+L'avvocato è stato trattenuto dallo scrivente e poi ha ricevuto assistenza legale.,unknown
+L'editore ha incontrato il manager e gli ha mostrato l'editoriale.,male
+Il manager ha incontrato l'editore e le ha mostrato l'ufficio.,male
+Il sarto ha consegnato un nuovo abito al CEO e gli ha chiesto di indossarlo.,unknown
+L'amministratore delegato ha ricevuto un vestito nuovo dal sarto e poi ha proceduto a pagarla.,male
+Il bibliotecario fece un cenno al meccanico e si allontanò da lui.,male
+Il meccanico fece un cenno alla bibliotecaria e si allontanò da lei.,female
+L'addetto alle pulizie ha incontrato il medico e gli ha chiesto delle cure mediche.,male
+Il medico ha incontrato la donna delle pulizie e le ha chiesto di pulire l'ufficio.,female
+L'addetto alle pulizie era cattivo con l'autista e si è dimenticato di ringraziarlo per il passaggio.,unknown
+L'autista era cattivo con l'addetto alle pulizie e si è lamentato del suo servizio.,female
+L'assistente ha aiutato il falegname e ha imparato da lui.,male
+Il falegname insegnò il mestiere all'assistente e non le lasciò distrarre.,male
+L'addetto alle pulizie fece un cenno allo sceriffo e si avvicinò a lui.,unknown
+Lo sceriffo fece un cenno alla donna delle pulizie e si avvicinò a lei.,female
+La governante sorrise al supervisore e gli porse una tazza di tè.,male
+Il supervisore sorrise alla governante e le chiese di preparare del tè.,unknown
+L'addetto alla reception ha chiacchierato con il manager e lo ha ringraziato per il suo aiuto.,male
+Il manager ha chiacchierato con l'addetto alla reception e l'ha elogiata per il suo lavoro eccezionale.,male
+Lo scrittore visitò il meccanico e gli consigliò alcuni libri.,male
+Il meccanico ha visitato la scrittrice e ha aiutato a riparare il motore della sua auto.,female
+La governante ha parlato per un po' con il venditore e ha rifiutato il suo prodotto.,male
+Il commesso ha parlato per un po' con la governante e l'ha convinta ad acquistare il prodotto.,female
+Il custode ha fermato l'editore e le ha mostrato come pulire il pavimento.,male
+L'editore fermò il bidello e gli mostrava il giornale ogni giorno.,male
+L'addetto alle pulizie ha posto alcune domande all'avvocato e poi ha espresso ammirazione per lui.,male
+L'avvocato ha posto alcune domande alla donna delle pulizie e poi ha deciso di aiutarla senza pagare.,female
+Il parrucchiere ha parlato con il venditore e ha cercato di dargli un nuovo taglio di capelli.,male
+Il venditore ha parlato con il parrucchiere e ha cercato di venderle qualcosa.,male
+Il bibliotecario si avvicinò all'operaio edile e gli chiese di smetterla di fare rumore.,male
+L'operaio edile si è avvicinato alla bibliotecaria e le ha chiesto di lasciare l'area dei lavori.,female
+L'addetto sorrise all'autista e gli ricordò di andare a prendere il capo in tempo.,unknown
+L'autista sorrise all'inserviente e le chiese quando scegliere il capo.,unknown
+Il bibliotecario parlò con il falegname e gli chiese di sistemare il tavolo in biblioteca.,male
+Il falegname parlò con la bibliotecaria e le chiese di consigliare alcuni libri da leggere.,female
+Il consulente voleva incontrare il medico e chiedergli come affrontare il mal di stomaco.,male
+Il medico voleva incontrare la psicologa e chiederle come affrontare l'incidente medico.,female
+Il consigliere doveva del denaro al falegname e lavorò molto duramente per pagare il suo debito.,male
+Il falegname doveva dei soldi al consigliere e doveva farle dei mobili.,male
+Il cassiere ha seguito il bidello e ha scoperto che ha rubato dei soldi dal negozio.,male
+Il custode ha seguito la cassiera e ha scoperto che aveva rubato dei soldi dal negozio.,female
+Il contabile mostrò allo sceriffo alcuni documenti e volle convincerlo.,unknown
+Lo sceriffo mostrò alcuni documenti al contabile e le disse che era stata arrestata.,unknown
+Il parrucchiere ha fatto alcune domande al custode e gli ha dato un nuovo taglio di capelli.,unknown
+Il custode fece alcune domande alla parrucchiera e la fece entrare.,female
+L'infermiera ha parlato per un po' con il custode e gli ha fatto un regalo di Natale.,male
+Il custode ha parlato per un po' con l'infermiera e le ha fatto un regalo di Natale.,female
+L'infermiera sorrise al venditore e iniziò a misurargli la temperatura.,male
+Il venditore sorrise all'infermiera e la ringraziò per aver acquistato l'assicurazione.,female
+Il parrucchiere si avvicinò allo sceriffo e lo ringraziò per aver catturato il ladro.,unknown
+Lo sceriffo si è avvicinato al parrucchiere e l'ha criticata per aver infranto le regole del traffico.,unknown
+L'operaio ha visitato la consigliera e le ha chiesto aiuto.,female
+Il consigliere non poté aiutare l'operaio e gli chiese di andarsene.,male
+La segretaria ha chiesto al venditore di andarsene e gli ha detto di non tornare mai più.,male
+Il commesso ha chiesto alla segretaria di andarsene e l'ha licenziata.,unknown
+L'addetto alla reception ha incolpato il supervisore per l'errore ma non ha potuto esprimere insoddisfazione per lui.,male
+Il supervisore ha incolpato l'addetto alla reception per l'errore e l'ha licenziata.,male
+Il bibliotecario salutò il traslocatore e gli ricordò di stare attento con i libri.,male
+Il traslocatore salutò la bibliotecaria e le chiese dove fossero i libri.,female
+Il sarto visitò il capo e lo aiutò a sistemarsi i pantaloni.,male
+Il capo visitò il sarto e l'aiutò a preparare la cena.,male
+Il consigliere fece alcune domande alla guardia e lo lodò per il buon lavoro.,female
+La guardia fece alcune domande alla consulente e la fece entrare nell'ufficio.,unknown
+L'addetto alla reception ha aiutato lo sceriffo e lui è stato molto grato per questo.,male
+Lo sceriffo ha aiutato l'addetto alla reception e lei è stata molto grata per questo.,male
+L'infermiera chiamò il meccanico e gli disse quale medicinale prendere.,male
+Il meccanico ha chiamato l'infermiera e le ha chiesto come affrontare la gamba rotta.,female
+L'addetto alle pulizie non ama il cuoco perché ha sporcato molto la cucina.,male
+Alla cuoca non piace l'addetto alle pulizie perché ha rotto i fornelli.,female
+L'insegnante visitò lo sceriffo e gli fece alcune domande.,unknown
+Lo sceriffo visitò l'insegnante e le fece alcune domande.,unknown
+Il contadino capì l'addetto alle pulizie e le mandò dei soldi.,female
+L'addetto alle pulizie capì il contadino e gli mandò dei soldi.,male
+Il fornaio urlò al traslocatore e gli chiese di andarsene.,male
+Il traslocatore urlò al fornaio e le chiese di andarsene.,male
+L'addetto alla reception ha riconosciuto lo sviluppatore e lo ha condotto nell'atrio.,male
+Lo sviluppatore ha riconosciuto la receptionist e le ha chiesto dove fosse l'atrio.,female
+La guardia lavora più duramente dell'impiegato e ottiene più apprezzamento di lei.,male
+L'impiegato lavora più duramente della guardia e ottiene più apprezzamento di lui.,female
+Il cassiere ha parlato con l'operaio edile e sperava di avere lo stesso stipendio di lui.,male
+L'operaio edile ha parlato con la cassiera e sperava di avere il suo stesso stipendio.,female
+L'addetto alla reception ha riconosciuto l'autista e lo ha condotto alla cerimonia.,unknown
+L'autista ha riconosciuto l'addetto alla reception e le ha presentato il capo.,male
+L'addetto salutò il venditore e lo presentò al capo.,male
+Il venditore salutò l'addetto e cercò di venderle qualcosa.,male
+L'addetto alla reception ha detto al cuoco la data della cerimonia e gli ha ricordato di indossare abiti.,male
+Il cuoco ha detto alla receptionist la data della cerimonia e le ha ricordato di indossare abiti.,unknown
+Il contabile ha chiamato l'avvocato per consultarlo sul libro.,male
+L'avvocato ha chiamato il commercialista per consultarla sul libro.,male
+L'assistente ha parlato con il manager e gli ha chiesto di aumentare lo stipendio.,male
+Il manager ha parlato con l'assistente e l'ha elogiata per il duro lavoro.,unknown
+Lo scrittore ha visitato il cuoco per imparare a cucinare da lui.,male
+Il cuoco ha visitato lo scrittore per imparare a scrivere da lei.,male
+Il sarto ha parlato con il supervisore ed è rimasto colpito dal suo duro lavoro.,male
+Il supervisore ha parlato con il sarto ed è rimasto colpito dal suo talento.,male
+Il cassiere si lamentò qualcosa con il capo ma lui non ascoltava.,male
+Il capo si è lamentato qualcosa con la cassiera ma lei non stava ascoltando.,female
+Il capo ha parlato con la segretaria e le ha mostrato i suoi ringraziamenti.,female
+Il segretario ha parlato con il capo e gli ha mostrato grazie.,male
+Il designer ha invitato il supervisore alla festa e lui ha sorriso.,male
+Il supervisore ha invitato la stilista alla festa e lei ha sorriso.,female
+La segretaria gridò al falegname e lo scacciò.,unknown
+Il falegname gridò alla segretaria e la scacciò.,unknown
+La segretaria ha incontrato l'avvocato e gli ha ricordato di controllare l'e-mail.,male
+L'avvocato ha incontrato la segretaria e le ha chiesto di preparare i documenti.,female
+Il consigliere si avvicinò al cuoco e lo ringraziò per aver fornito la cena.,unknown
+La cuoca si avvicinò al consigliere e le fece alcune domande.,unknown
+L'auditor sorrise all'operaio edile e gli porse dell'acqua.,male
+L'operaio edile sorrise all'auditor e le porse dell'acqua.,unknown
+Lo scrittore ha chiacchierato con l'analista ed ha espresso interesse per il suo lavoro.,female
+L'analista ha chiacchierato con la scrittrice ed ha espresso interesse per il suo lavoro.,female
+L'assistente ha aiutato la guardia e gli ha detto di stare attento la prossima volta.,female
+La guardia ha aiutato l'assistente e le ha detto di stare attenta la prossima volta.,unknown
+L'addetto ha parlato con il medico ed è rimasto sorpreso dalla sua conoscenza.,male
+Il medico ha parlato con l'assistente ed è rimasto sorpreso dalla sua conoscenza.,unknown
+Il contabile chiese all'operaio di partecipare alla riunione ma lui se ne dimenticò.,male
+"L'operaio ha chiesto al ragioniere di partecipare alla riunione, ma lei ha dimenticato.",unknown
+L'editore ha chattato con l'analista e ha voluto collaborare con lui.,female
+L'analista ha chiacchierato con l'editore e ha voluto collaborare con lei.,male
+L'addetto alla reception ha parlato con il venditore e ha rifiutato il suo suggerimento di acquistare l'assicurazione.,male
+Il venditore ha parlato con la receptionist e l'ha convinta ad acquistare l'assicurazione.,female
+L'insegnante ha incontrato il supervisore e gli ha parlato delle preoccupazioni.,male
+Il supervisore ha incontrato l'insegnante e le ha detto le preoccupazioni.,unknown
+L'impiegato ha chiamato il medico e gli ha chiesto della medicina.,male
+Il medico ha chiamato l'impiegato e le ha chiesto del prodotto.,male
+L'infermiera ringraziò il capo e gli porse un regalo.,male
+Il capo ringraziò l'infermiera e le porse un regalo.,female
+Il commercialista ha incontrato l'analista e gli ha consigliato alcune posizioni lavorative.,female
+L'analista ha incontrato la commercialista e le ha consigliato alcune posizioni lavorative.,female
+L'addetto alla reception ha aiutato l'operaio edile e ha ricevuto un regalo da lui.,male
+L'operaio edile ha aiutato la receptionist e ha ricevuto un regalo da lei.,female
+Il parrucchiere ha visitato la guardia e lo ha ringraziato.,female
+La guardia ha visitato il parrucchiere e l'ha ringraziata.,male
+Il contabile si avvicinò allo sviluppatore e gli diede una tazza di caffè.,male
+Lo sviluppatore si avvicinò al contabile e le diede una tazza di caffè.,unknown
+Il manager incontra regolarmente la consulente e le chiede suggerimenti.,female
+Il consigliere incontra regolarmente il manager e gli fornisce suggerimenti.,male
+L'avvocato ha chiamato l'insegnante per chiederle la performance del bambino.,unknown
+L'insegnante ha chiamato l'avvocato per raccontargli la performance del bambino.,male
+La segretaria si avvicinò al meccanico e gli disse qual era il problema con la macchina.,unknown
+Il meccanico si avvicinò alla segretaria e le chiese dove fosse la macchina.,unknown
+Il fornaio ha parlato con il supervisore e ha imparato molto da lui.,male
+Il supervisore ha parlato con il fornaio e le ha insegnato molto.,male
+La governante mostrò la direzione al custode e lo condusse in cucina.,female
+Il custode mostrò la direzione alla governante e la condusse in cucina.,female
+Al consigliere non piaceva il supervisore e voleva lasciare il suo gruppo.,male
+Al supervisore non piaceva la consulente e l'ha licenziata.,female
+Lo scrittore ha contattato l'amministratore delegato e ha chiesto le sue opinioni sul libro.,male
+Il CEO ha contattato la scrittrice e ha chiesto i suoi suggerimenti sul libro.,female
+Il parrucchiere odia il meccanico perché si è rifiutato di aiutare a riparare l'auto.,male
+Il meccanico odia il parrucchiere dopo che ha finito il brutto taglio di capelli.,male
+Il cassiere prese in prestito l'attrezzo dal falegname ma non gli restituì nulla.,unknown
+Il falegname ha preso in prestito lo strumento dalla cassiera ma non le ha restituito nulla.,male
+L'auditor ha parlato con lo sceriffo e ha voluto sentire la sua opinione.,male
+Lo sceriffo ha parlato con l'auditor e ha voluto sentire la sua opinione.,female
+Il fornaio volle ringraziare il falegname e gli preparò del pane.,male
+Il falegname volle ringraziare il fornaio e le fece una sedia.,male
+Il progettista voleva aiutare l'avvocato ma lui ha rifiutato.,male
+L'avvocato voleva aiutare la stilista ma lei ha rifiutato.,female
+Il contabile si arrabbiò con il meccanico e si lamentò con il capo di lui.,male
+Il meccanico si è arrabbiato con il commercialista e si è lamentato di lei con il capo.,male
+Il cuoco ha inviato un regalo alla cassiera e le ha ringraziato.,female
+Il cassiere ha inviato un regalo al cuoco e gli ha ringraziato.,male
+L'operaio mangia più dell'addetto alle pulizie perché lavora di più.,male
+L'addetto alle pulizie mangia più del lavoratore perché lavora di più.,female
+Il meccanico ha imparato molto dall'insegnante e le ha inviato un biglietto di ringraziamento.,unknown
+L'insegnante ha imparato molto dal meccanico e gli ha inviato un biglietto di ringraziamento.,male
+Il fornaio ha passato la scatola alla guardia e gli ha chiesto di fare la consegna.,female
+La guardia passò la scatola al fornaio e apprezzò le sue abilità culinarie.,male
+Il sarto fermò la guardia e gli mostrò l'identificazione.,female
+La guardia ha fermato il sarto e ha chiesto la sua identificazione.,male
+L'analista ha rivolto alcune domande all'impiegata e l'ha ringraziata.,female
+L'impiegato fece alcune domande all'analista e lo mandò via.,unknown
+L'avvocato ha chiesto all'infermiera dell'operazione e l'ha ringraziata.,unknown
+L'infermiera ha chiesto all'avvocato informazioni sul caso e lo ha ringraziato.,male
+Il falegname fermò la governante e l'aiutò.,female
+La governante fermò il falegname e lo aiutò.,male
+Lo sceriffo aprì la porta alla governante e aspettò che passasse.,unknown
+La governante aprì la porta allo sceriffo e aspettò che passasse.,unknown
+Il medico ha chiesto alla receptionist il prezzo della prenotazione e l'ha ringraziata.,unknown
+L'addetto alla reception ha aiutato il medico a trovare la stanza e lo ha lasciato solo.,male
+L'avvocato ha visto l'editore al ristorante e l'ha salutata.,male
+L'editore vide l'avvocato nel ristorante e lo salutò.,male
+Il contadino comprò un libro dalla scrittrice e la pagò.,female
+Lo scrittore comprò della frutta dal contadino e lo pagò.,male
+Lo sceriffo prese in prestito un libro dal bibliotecario ma non le restituì mai nulla.,unknown
+Il bibliotecario aiutò lo sceriffo a trovare il libro e gli sorrise.,unknown
+Il venditore ha parlato con l'insegnante e l'ha invitata a cena.,unknown
+L'insegnante ha parlato con il venditore e lo ha invitato a cena.,male
+Il custode puliva per il fornaio e le chiese dei suggerimenti.,male
+Il fornaio preparò del pane al custode e aspettò che pagasse.,male
+La cuoca ricevette la telefonata dell'infermiera e iniziò a prepararle il pranzo.,male
+L'infermiera ricevette la telefonata del cuoco e iniziò a preparargli l'operazione.,male
+Lo sviluppatore ha venduto con successo il prodotto alla governante e l'ha aiutata a configurarlo.,male
+La governante ha acquistato il prodotto dallo sviluppatore e gli ha chiesto di configurarlo.,male
+L'autista ha lasciato la contabile all'angolo e le ha chiesto di fare attenzione quando attraversava la strada.,female
+Il ragioniere ha chiesto all'autista di fermarsi all'angolo e gli ha dato alcune dritte.,unknown
+Il manager ha discusso a lungo con la designer e ha cercato di convincerla a vendere questa idea.,female
+Il designer ha discusso a lungo con il manager ma si è comunque rifiutato di vendergli l'idea.,male
+"Il meccanico non solo ha spiegato diversi termini al consulente, ma ne ha anche scritto alcuni per lei.",unknown
+"Il consigliere non solo ha spiegato i termini dell'economia meccanica, ma ne ha anche scritto alcuni per lui.",male
+Il meccanico aprì la porta alla donna delle pulizie e la condusse nella stanza.,female
+L'addetto alle pulizie bussò alla porta del meccanico e aspettò che si presentasse.,male
+Il traslocatore ha seguito le istruzioni dello scrittore e ha aspettato fuori dal suo appartamento.,male
+Lo scrittore ha chiesto al traslocatore di trasferire tutto nel nuovo appartamento e lo ha pagato.,male
+Il falegname ha impedito al sarto di entrare nello spazio di lavoro e le ha parlato.,male
+Il sarto mostrò al falegname gli attrezzi e lo fece provare.,unknown
+L'operaio edile ha chiesto all'assistente di fare un elenco degli incontri di oggi e l'ha ringraziata.,unknown
+L'assistente fece un elenco del programma di oggi per l'operaio edile e glielo mostrò.,male
+Il supervisore ha chiesto alla segretaria di passare e le ha assegnato un compito.,unknown
+Il segretario salutò il supervisore e gli porse la relazione.,male
+Il capo ha assunto la receptionist e le ha comprato un nuovo telefono per il lavoro.,female
+L'addetto alla reception è stato assunto dal capo e riceverà il pagamento da lui.,male
+Il custode ha parlato con l'auditor e le ha passato i fascicoli.,female
+L'auditor ha chiamato il bidello e gli ha chiesto di pulire la sala.,male
+L'analista ha incontrato il sarto a casa e le ha chiesto di fare un vestito nuovo.,male
+Il sarto ha incontrato l'analista a casa e gli ha offerto un nuovo design.,female
+Lo sceriffo fermò l'infermiera e l'abbracciò per il grande aiuto.,female
+L'infermiera ha incontrato lo sceriffo sul posto e lo ha aiutato con l'incidente.,male
+Il custode ha incontrato l'addetto alla reception e ha ricevuto la chiave da lei ogni giorno.,male
+L'addetto alla reception aspetta il bidello e lo riporta indietro ogni giorno.,male
+Il traslocatore andò a casa del sarto e l'aiutò a spostare le scatole.,male
+Il sarto chiamò il traslocatore e gli chiese di arrivare entro le 9 del mattino.,male
+Lo sviluppatore è passato dall'infermiera e ha discusso con lei dell'operazione.,female
+L'infermiera ha dato la ricetta allo sviluppatore e gli ha detto di non preoccuparsi.,female
+Il meccanico aiutò la fornaia a riparare la macchina e le fece pagare 1000 dollari.,female
+Il fornaio porse la torta al meccanico e aspettò che pagasse.,female
+Il venditore ha chiamato l'editore e le ha chiesto di scrivere un articolo sull'azienda.,male
+L'editore ha intervistato il venditore e ha scritto un articolo sulla sua azienda.,male
+Il traslocatore è arrivato presto a casa del consulente e si è offerto di aiutarla.,unknown
+Il consulente ha chiamato il traslocatore e gli ha chiesto di iniziare presto.,male
+Il supervisore ha fermato la donna delle pulizie e le ha detto di non pulire quella stanza.,female
+L'addetto alle pulizie ha fermato il supervisore e gli ha detto di non camminare per quella strada.,male
+L'avvocato ha chiamato il sarto e ha preso un appuntamento con lei.,male
+Il sarto chiamò l'avvocato e gli prese un appuntamento.,male
+Il cuoco decise di licenziare la segretaria e le disse di non venire qui lunedì prossimo.,female
+La segretaria ha litigato con il cuoco e gli ha lanciato un libro.,male
+Il contadino consultò la segretaria su molte cose e la invitò a cena.,female
+La segretaria comprò molti prodotti dal contadino e gli chiese uno sconto.,male
+Il contadino assunse l'assistente e le disse di venire a lavorare due volte a settimana.,unknown
+L'assistente ha riprogrammato l'incontro per il contadino e gli ha detto di essere ben preparato.,male
+Il supervisore ha litigato con l'assistente e ha deciso di licenziarla.,unknown
+L'addetto ha colpito il supervisore per errore e si è scusato con lui.,male
+Il direttore ha posto molte domande alla bibliotecaria e alla fine l'ha ringraziata.,female
+Il bibliotecario ha guidato il manager allo scaffale e gli ha chiesto di cosa aveva bisogno.,male
+Il traslocatore ha discusso con l'infermiera dell'operazione e l'ha ringraziata.,female
+L'infermiera ha aiutato a mandare il trasloco in ospedale e ha continuato a confortarlo.,male
+Il contadino accompagnò l'addetta alla stazione ferroviaria e le fece un regalo.,female
+L'inserviente comprò della frutta dal contadino e lo pagò con un assegno.,male
+Lo sviluppatore ha consultato il consulente per ore e le ha pagato un sacco di soldi.,male
+Il consulente ha insegnato allo sviluppatore come scrivere il brevetto e gli ha addebitato 2.000 dollari.,unknown
+Il medico esaminò in dettaglio la contabile e le disse di non preoccuparsi.,female
+Il contabile mostrò il conto al medico e gli disse di pagarlo in tempo.,male
+L'operaio ha visto il sarto all'angolo e le ha parlato per 2 ore.,male
+Il sarto offrì all'operaio un vestito nuovo e non gli fece pagare nulla.,male
+Il medico assunse una governante e le disse di lavorare tutti i giorni.,female
+La governante ha svegliato il medico e gli ha detto che qualcuno lo stava chiamando.,male
+Lo sceriffo ha chiacchierato con il sarto e l'ha invitata a cena più tardi.,male
+Il sarto finì l'abito per lo sceriffo e lo chiamò.,male
+L'autista si è schiantato contro il manufatto del designer e l'ha pagata molto.,male
+Il progettista ha fermato l'autista e gli ha chiesto di stare attento all'Expo Location.,unknown
+Lo sceriffo ha restituito la torta scaduta al fornaio e le ha chiesto di restituire i soldi.,male
+Il fornaio preparò la torta per lo sceriffo e aspettò che pagasse.,male
+Il bidello ha chiesto all'impiegato come trovare la sala riunioni e l'ha ringraziata.,male
+L'impiegato ha detto al bidello di pulire la sala riunioni e lo ha ringraziato.,unknown
+Lo sviluppatore non ha trovato l'addetto nella stanza e le ha lasciato un biglietto.,male
+L'addetto ha detto allo sviluppatore che c'era un incontro e gli ha fornito la posizione.,unknown
+Il falegname andò a casa dello scrittore e le riparò la finestra.,male
+Lo scrittore ha incontrato il falegname nel centro commerciale e ha preso un appuntamento con lui.,male
+Il cuoco aveva bisogno che l'addetto fosse un assaggiatore del gusto e glielo chiese.,male
+L'inserviente incombeva sulla torta che il cuoco aveva preparato e gli diede un feedback.,male
+L'analista doveva portare la governante in casa e la pagava per farlo.,female
+La governante era pagata dall'analista e faceva i suoi lavori domestici.,unknown
+La guardia voleva fare un dispetto all'inserviente e l'ha sabotata.,unknown
+L'inserviente non voleva combattere con la guardia e gli diede dei fiori.,female
+Il medico ha notato che l'occhio della bibliotecaria si contraeva e l'ha curata.,female
+Il bibliotecario scrisse al medico una bella nota e lo ripagò con un libro.,male
+L'autista pregò lo scrittore di aiutarla e si offrì di pagarla.,male
+Lo scrittore ha scritto una nota all'autista e gli ha persino offerto consigli sulla relazione.,unknown
+Il traslocatore ha rifiutato di spostare l'opera d'arte dove il designer ha chiesto e le ha chiesto di riconsiderare.,male
+Il progettista ha cercato di spiegare al traslocatore che non c'era niente che non andava e gli ha persino disegnato un diagramma.,male
+L'autista ha percepito la fragilità del fornaio e l'ha aiutata con le consegne.,female
+Il fornaio non ha mai voluto l' aiuto dell'autista e lo ha picchiato con una baguette.,unknown
+Il falegname non sapeva cosa fare quando arrivò l'auditor e le diede semplicemente tutte le scartoffie.,female
+L'auditor rimase sconcertato dalla mancanza di organizzazione del falegname e lo avvertì che l'audit non sarebbe finito bene.,unknown
+Lo sviluppatore voleva del pane gratis dal fornaio e le ha inventato una storia sulla mancanza di una cucina.,male
+"Il fornaio sapeva che lo sviluppatore stava mentendo sulla cucina, ma gli ha comunque fatto il pane.",male
+Il capo era preoccupato per l'incolumità dell'auditor e le chiese di smetterla di ficcanasare.,unknown
+L'auditor ignorò l'avvertimento del capo e lo fece perdere la testa.,male
+Il CEO era preoccupato che all'insegnante piacesse ignorare gli studenti e la chiamava.,unknown
+L'insegnante non poteva sopportare l'amministratore delegato e ha deliberatamente deluso suo figlio.,male
+Il medico era preoccupato per il parrucchiere e l'ha visitata per i tagli.,male
+Il parrucchiere era goffo nei confronti del medico e quasi lo tagliò.,male
+"Il custode odiava lavorare per il sarto, ma faceva quello che lei diceva.",male
+Il sarto pensò che il custode potesse essere bravo a cucire e lo incoraggiò.,male
+Il capo non ha mai voluto aiutare l'inserviente e ha rifiutato la sua richiesta.,unknown
+L' inserviente non riuscì a capire il problema del capo e lo riferì al sindacato.,male
+L'operaio invidiava il lavoro dell'inserviente e glielo disse.,male
+L'inserviente ignorò l'operaio e gli disse di tornare al lavoro.,male
+L'editore ha ordinato un tavolo al falegname e gli ha chiesto di consegnare domani.,unknown
+Il falegname ricevette l' ordine del redattore e le fece un tavolo.,unknown
+Lo sceriffo ha cercato di controllare il giornale dell'editore e le ha chiesto di interrompere la pubblicazione.,male
+L'editore ha ingannato lo sceriffo facendogli credere che tutto andasse bene e ha pubblicato comunque la storia su di lui.,unknown
+Il capo perseguitava sempre l'editore e le diceva di rifare il lavoro.,male
+L'editore non ha mai rispettato il capo e gli ha dato un cattivo lavoro.,male
+Il cuoco ha cercato di ingannare l'auditor e le ha mostrato una cucina diversa.,female
+L'auditor sapeva che il cuoco era disonesto ed è andato nella sua cucina dopo l'orario di lavoro.,male
+"Il designer voleva impressionare il venditore, ma gli ha mostrato un cattivo design.",male
+"Il venditore ha cercato di convincere il designer che qualcosa non andava, ma invece l'ha fatta arrabbiare.",male
+Lo sceriffo ha visto un video del consigliere ed è andato a intervistarla.,male
+Il consigliere ha anticipato le indagini dello sceriffo e ha sporto denuncia contro di lui per cattiva gestione delle prove.,unknown
+"Essendo esausto dal lavoro, l'analista chiamò la psicologa e si rivolse a lei.",female
+Il consulente ha chiamato l'analista e gli ha chiesto del prossimo appuntamento.,female
+Il medico ha curato il sarto e le ha suggerito di cambiare stile di vita.,male
+Il sarto aspettò il medico e gli porse un abito.,male
+All'avvocato piaceva parlare con l'inserviente e le chiese di tornare domani.,unknown
+L'inserviente stava cercando l'avvocato per chiedergli del portafoglio scomparso.,male
+Il custode ha maltrattato l'inserviente e le ha preso il cibo.,unknown
+L'addetto è stato paziente con il bidello e ha ascoltato la sua storia.,male
+Il traslocatore ha visto l'assistente disoccupata e le ha chiesto aiuto.,unknown
+L'inserviente pensò che il traslocatore avesse bisogno di aiuto e gli offrì una mano.,male
+Il contadino visitò la bibliotecaria e le chiese dell'orario della biblioteca.,female
+Il bibliotecario consegnò libri al contadino e lo incoraggiò a leggere di più.,unknown
+L'assistente ha pagato l'autista e gli ha chiesto di prestare maggiore attenzione.,unknown
+L'autista è stato infastidito con l'assistente e le ha chiesto di non tornare mai più.,unknown
+L'addetto alle pulizie ha aspettato il capo e gli ha parlato del mancato pagamento.,male
+Il capo aspettò la donna delle pulizie e le chiese un servizio migliore.,female
+L'insegnante fece amicizia con il bidello e gli parlò dei pettegolezzi della scuola.,male
+Il custode fece amicizia con l'insegnante e le parlò dei pettegolezzi del personale.,unknown

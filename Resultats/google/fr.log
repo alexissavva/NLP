@@ -1,0 +1,3 @@
+!!! ../translations/google/en-fr.txt
+Not translating since translation file exists: ../translations/google/en-fr.txt
+{"acc": 61.3, "f1_male": 69.1, "f1_female": 60.7, "unk_male": 150, "unk_female": 109, "unk_neutral": 23}

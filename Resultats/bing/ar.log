@@ -1,0 +1,3 @@
+!!! ../translations/bing/en-ar.txt
+Not translating since translation file exists: ../translations/bing/en-ar.txt
+{"acc": 56.1, "f1_male": 66.8, "f1_female": 44.3, "unk_male": 63, "unk_female": 81, "unk_neutral": 4}
