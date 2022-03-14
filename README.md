@@ -49,7 +49,7 @@ In the docker you just need to export `FAST_ALIGN_BASE` with this command `expor
 
 You have everything to run the experiment and get results.
 
-Do not forgot to export all api key if you delete/modifie folder result or scripts.
+Do not forgot to export all api key if you delete/modifie result or scripts folder.
 
 # Normal installation
 
