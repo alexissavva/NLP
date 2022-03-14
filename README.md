@@ -36,7 +36,7 @@ To use this projet, you need to export translator's Api key :
 ## API KEY
 To use Amazon translate, Google translate and others you need to create and get your api key
 
-# Docker
+# Docker installation
 You can run our experiment by downloading our docker image : `docker pull neofitos/projetnlp:versionfinal`.
 
 After this, you need to run the docker with `docker run -i neofitos/projetnlp:versionfinal`. 
