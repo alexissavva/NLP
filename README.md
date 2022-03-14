@@ -66,6 +66,7 @@ path.
 
 * In this experiment, we do not have result for SOTA translator.
 
+* If you want to run again the experiment, you can delete Resultats, Pro_stero, Anti_stero
 ## Adding an MT system
 1. Translate the file in `data/aggregates/en.txt` to the languages in our evaluation method.
 2. Put the transalations in `translations/your-mt-system/en-targetLanguage.txt` where each sentence is in a new line, which has the following format `original-sentence ||| translated sentence`. See [this file](translations/aws/en-fr.txt) for an example.
