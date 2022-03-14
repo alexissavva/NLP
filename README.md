@@ -47,7 +47,7 @@ All files are in `/home`
 
 In the docker you just need to export `FAST_ALIGN_BASE` with this command `export FAST_ALIGN_BASE=/home/fast_align/` (the path to fast_align folder).
 
-You have everything to run the experiment and get results. Go to see `Running our experiments` part 
+You have everything to run the experiment and get results. Go see `Running our experiments` part 
 
 Do not forgot to export all api key if you delete/modifie result or scripts folder.
 
