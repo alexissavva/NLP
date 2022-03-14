@@ -51,6 +51,8 @@ You have everything to run the experiment and get results. Go see `Running our e
 
 Do not forgot to export all api key if you delete/modifie result or scripts folder.
 
+In our experiment Anti-stero folder contains the results for data/aggregates/en_anti.txt, Pro_stero contains the results for data/aggregates/en_pro.txt and Resultats contains the results for data/aggregates/en.txt.
+
 # Normal installation
 
 ## Requirements
@@ -68,6 +70,7 @@ Run all of the following from the  `src` folder. Output logs will be written to 
 path.
 
 * In this experiment, we do not have result for SOTA translator.
+* For SYSTRAN translator we created our python file to communicate with the API. This file WAS NOT in the original repo `https://github.com/gabrielStanovsky/mt_gender`.
 * If you want to run again the experiment, you can delete you can create an output folder in mt_gender
 * For the general gender accuracy number, run:
 
@@ -87,7 +90,6 @@ path.
         
         Our results are in the Anti_stero folder
         
-* For SYSTRAN translator we created our python file to communicate with the API. This file WAS NOT in the original repo `https://github.com/gabrielStanovsky/mt_gender`.
 
 # Adding an MT system
 1. Translate the file in `data/aggregates/en.txt` to the languages in our evaluation method.
