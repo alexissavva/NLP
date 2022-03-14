@@ -16,13 +16,7 @@ This repo contains code and data for reproducing the experiments in [Evaluating 
 }
 ```
 
-## Requirements
-See and install package in requirements.txt
-
-## Install
-`./install.sh`
-
-## Set Up
+# Set Up
 To use this projet, you need to export translator's Api key :
 
 `export AWS_DEFAULT_REGION=eu-west-3`
@@ -39,11 +33,37 @@ To use this projet, you need to export translator's Api key :
 
 `export SYSTRAN_TRANSLATOR_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
 
+## API KEY
+To use Amazon translate, Google translate and others you need to create and get your api key
 
-## Running our experiments 
+# Docker
+You can run our experiment by downloading our docker image : `docker pull neofitos/projetnlp:versionfinal`.
+After this, you need to run the docker with `docker run -i neofitos/projetnlp:versionfinal`. 
+Finally, you can exec the docker with `docker exer -ti docker_name /bin/bash`.
+All files are in `/home`
+In the docker you just need to export `FAST_ALIGN_BASE` with this command `export FAST_ALIGN_BASE=/home/fast_align/` (the path to fast_align folder).
+You have everything to run the experiment and get results.
+
+Do not forgot to export all api key if you delete/modifie folder result or scripts.
+
+# Normal installation
+
+## Requirements
+See and install package in requirements.txt
+
+## Requirements
+* [fast_align](https://github.com/clab/fast_align): install and point an environment variable called `FAST_ALIGN_BASE` to its root folder (the one containing the `build` folder).
+
+## Install
+`./install.sh`
+
+# Running our experiments 
 This is the entry point for all our experiments: [scripts/evaluate_all_languages.sh](scripts/evaluate_all_languages.sh).
 Run all of the following from the  `src` folder. Output logs will be written to the given
 path.
+
+* In this experiment, we do not have result for SOTA translator.
+* If you want to run again the experiment, you can delete you can create an output folder in mt_gender
 * For the general gender accuracy number, run:
 
         ../scripts/evaluate_all_languages.sh ../data/aggregates/en.txt  path/to/output/folder/
@@ -64,10 +84,7 @@ path.
         
 * For SYSTRAN translator we created our python file to communicate with the API. This file WAS NOT in the original repo `https://github.com/gabrielStanovsky/mt_gender`.
 
-* In this experiment, we do not have result for SOTA translator.
-
-* If you want to run again the experiment, you can delete Resultats, Pro_stero, Anti_stero folders
-## Adding an MT system
+# Adding an MT system
 1. Translate the file in `data/aggregates/en.txt` to the languages in our evaluation method.
 2. Put the transalations in `translations/your-mt-system/en-targetLanguage.txt` where each sentence is in a new line, which has the following format `original-sentence ||| translated sentence`. See [this file](translations/aws/en-fr.txt) for an example.
 3. Add your translator in the `mt_systems` enumeration in the [evaluation script](scripts/evaluate_all_languages.sh).
