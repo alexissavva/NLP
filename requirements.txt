@@ -4,6 +4,10 @@ spacy==2.2.3
 mosestokenizer
 google-cloud-translate==1.7.0
 
+# Install python 3.6
+You need to use a python version compatible with tensorflow (like python 3.6.8).
+Install conda and run:
+conda create -y -n py36 python=3.6.8
 
 # Russian & Ukranian morphology
 git+https://github.com/kmike/pymorphy2
@@ -14,10 +18,6 @@ pymorphy2-dicts-uk
 ufal.morphodita
 # Evaluating Gender Bias in Machine Translation
 
-
-# Requirements
-* [fast_align](https://github.com/clab/fast_align): install and point an environment variable called `FAST_ALIGN_BASE` to its root folder (the one containing the `build` folder).
-
 ### Evaluation in Polish
 
 
@@ -26,14 +26,4 @@ ufal.morphodita
 * Install downloaded spaCy model:
 
       python -m pip install PATH/TO/pl_spacy_model_morfeusz-x.x.x.tar.gz
-
-# Install python 3.6
-You need to use a python version compatible with tensorflow (like python 3.6.8).
-Install conda and run:
-conda create -y -n py36 python=3.6.8
-
-### API KEY
-To use Amazon translate, Google translate and others you need to create and get your api key
-
-
 
