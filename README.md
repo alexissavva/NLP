@@ -43,7 +43,7 @@ After this, you need to run the docker with `docker run -i neofitos/projetnlp:ve
 
 Finally, open new terminal and exec the docker with `docker exec -ti docker_name /bin/bash`. (replace docker_name by the docker name)
 
-All files are in `/home`
+All files are in `/home` and our result and experiment are in `/home/mt_gender`
 
 In the docker you just need to export `FAST_ALIGN_BASE` with this command `export FAST_ALIGN_BASE=/home/fast_align/` (the path to fast_align folder).
 
